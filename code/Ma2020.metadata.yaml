@@ -1,0 +1,280 @@
+_dataset:
+  class: Ma2020
+  code: Ma2020
+  doi: 10.1038/s41597-020-0535-2
+  interval:
+  - 0
+  - 4
+  n_subjects: 25
+  paradigm: imagery
+acquisition:
+  auxiliary_channels:
+    emg_channels: 0
+    eog_channels: 2
+    eog_type:
+    - horizontal
+    - vertical
+    has_eog: true
+    other_physiological:
+    - M2
+  channel_types:
+    eeg: 62
+  ground: AFz
+  hardware: Neuroscan SynAmps2
+  impedance_threshold_kohm: 5
+  line_freq: 50.0
+  montage: standard_1005
+  n_channels: 62
+  sampling_rate: 1000.0
+  sensors:
+  - Fp1
+  - Fpz
+  - Fp2
+  - AF3
+  - AF4
+  - F7
+  - F5
+  - F3
+  - F1
+  - Fz
+  - F2
+  - F4
+  - F6
+  - F8
+  - FT7
+  - FC5
+  - FC3
+  - FC1
+  - FCz
+  - FC2
+  - FC4
+  - FC6
+  - FT8
+  - T7
+  - C5
+  - C3
+  - C1
+  - Cz
+  - C2
+  - C4
+  - C6
+  - T8
+  - TP7
+  - CP5
+  - CP3
+  - CP1
+  - CPz
+  - CP2
+  - CP4
+  - CP6
+  - TP8
+  - P7
+  - P5
+  - P3
+  - P1
+  - Pz
+  - P2
+  - P4
+  - P6
+  - P8
+  - PO7
+  - PO5
+  - PO3
+  - POz
+  - PO4
+  - PO6
+  - PO8
+  - CB1
+  - O1
+  - Oz
+  - O2
+  - CB2
+bci_application:
+  applications:
+  - motor_rehabilitation
+  - prosthetic_control
+  environment: laboratory
+cross_validation:
+  cv_folds: 5
+  cv_method: 5-fold
+  evaluation_type:
+  - within_subject
+data_structure:
+  n_blocks: 15
+  n_trials: 600
+  n_trials_per_class:
+    right_elbow: 300
+    right_hand: 300
+  trials_context: 3 days x 5 MI sessions/day = 15 sessions, 40 trials/session (20 hand + 20 elbow)
+documentation:
+  country: CN
+  data_url: https://doi.org/10.7910/DVN/RBN3XG
+  doi: 10.1038/s41597-020-0535-2
+  ethics_approval:
+  - Ethics Committee of the Institute of Automation, Chinese Academy of Sciences
+  funding:
+  - National Key Research and Development Plan of China (No. 2017YFB1002502)
+  - National Natural Science Foundation of China (No. 61976209)
+  - National Natural Science Foundation of China (No. 61906188)
+  institution: Chinese Academy of Sciences
+  institution_department: Institute of Automation
+  investigators:
+  - Xuelin Ma
+  - Shuang Qiu
+  - Changde Du
+  - Junfeng Xing
+  - Huiguang He
+  keywords:
+  - motor imagery
+  - EEG
+  - BCI
+  - same limb
+  - hand
+  - elbow
+  license: CC-BY-4.0
+  publication_year: 2020
+  repository: Harvard Dataverse
+  senior_author: Huiguang He
+experiment:
+  class_labels:
+  - right_hand
+  - right_elbow
+  events:
+    right_elbow: 2
+    right_hand: 1
+  feedback_type: none
+  instructions: Subjects were asked to concentrate on performing the indicated motor imagery task (right hand or right elbow)
+    using kinesthetic, not visual, motor imagery while avoiding any motion during imagination.
+  mode: offline
+  n_classes: 2
+  paradigm: imagery
+  primary_modality: visual
+  stimulus_modalities:
+  - visual
+  stimulus_type: visual cue
+  synchronicity: synchronous
+  task_type: motor_imagery_same_limb
+  trial_duration: 4.0
+file_format: CNT
+paradigm_specific:
+  cue_duration_s: 1.0
+  detected_paradigm: motor_imagery
+  imagery_duration_s: 4.0
+  imagery_tasks:
+  - right_hand
+  - right_elbow
+participants:
+  age_max: 29
+  age_mean: 25.56
+  age_min: 23
+  ages:
+  - 26
+  - 27
+  - 24
+  - 25
+  - 25
+  - 24
+  - 26
+  - 24
+  - 24
+  - 25
+  - 27
+  - 26
+  - 29
+  - 26
+  - 25
+  - 24
+  - 26
+  - 26
+  - 25
+  - 28
+  - 25
+  - 27
+  - 26
+  - 23
+  - 25
+  bci_experience: naive
+  gender:
+    female: 7
+    male: 18
+  handedness:
+    right: 25
+  handedness_list:
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  - right
+  health_status: healthy
+  n_subjects: 25
+  sexes:
+  - male
+  - male
+  - male
+  - female
+  - male
+  - male
+  - female
+  - male
+  - female
+  - male
+  - male
+  - male
+  - male
+  - male
+  - female
+  - female
+  - female
+  - male
+  - female
+  - male
+  - male
+  - male
+  - male
+  - male
+  - male
+  species: homo sapiens
+runs_per_session: 1
+sessions_per_subject: 15
+signal_processing:
+  classifiers:
+  - FBCSP+SVM
+  feature_extraction:
+  - FBCSP
+  frequency_bands:
+    alpha:
+    - 8.0
+    - 13.0
+    beta:
+    - 20.0
+    - 25.0
+  spatial_filters:
+  - CAR
+  - FBCSP
+tags:
+  modality:
+  - motor
+  pathology:
+  - healthy
+  type:
+  - imagery

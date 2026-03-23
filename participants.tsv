@@ -1,0 +1,26 @@
+participant_id	age	sex	hand	weight	height	group	species	bci_experience
+sub-1	26	M	R	n/a	n/a	healthy	homo sapiens	naive
+sub-10	25	M	R	n/a	n/a	healthy	homo sapiens	naive
+sub-11	27	M	R	n/a	n/a	healthy	homo sapiens	naive
+sub-12	26	M	R	n/a	n/a	healthy	homo sapiens	naive
+sub-13	29	M	R	n/a	n/a	healthy	homo sapiens	naive
+sub-14	26	M	R	n/a	n/a	healthy	homo sapiens	naive
+sub-15	25	F	R	n/a	n/a	healthy	homo sapiens	naive
+sub-16	24	F	R	n/a	n/a	healthy	homo sapiens	naive
+sub-17	26	F	R	n/a	n/a	healthy	homo sapiens	naive
+sub-18	26	M	R	n/a	n/a	healthy	homo sapiens	naive
+sub-19	25	F	R	n/a	n/a	healthy	homo sapiens	naive
+sub-2	27	M	R	n/a	n/a	healthy	homo sapiens	naive
+sub-20	28	M	R	n/a	n/a	healthy	homo sapiens	naive
+sub-21	25	M	R	n/a	n/a	healthy	homo sapiens	naive
+sub-22	27	M	R	n/a	n/a	healthy	homo sapiens	naive
+sub-23	26	M	R	n/a	n/a	healthy	homo sapiens	naive
+sub-24	23	M	R	n/a	n/a	healthy	homo sapiens	naive
+sub-25	25	M	R	n/a	n/a	healthy	homo sapiens	naive
+sub-3	24	M	R	n/a	n/a	healthy	homo sapiens	naive
+sub-4	25	F	R	n/a	n/a	healthy	homo sapiens	naive
+sub-5	25	M	R	n/a	n/a	healthy	homo sapiens	naive
+sub-6	24	M	R	n/a	n/a	healthy	homo sapiens	naive
+sub-7	26	F	R	n/a	n/a	healthy	homo sapiens	naive
+sub-8	24	M	R	n/a	n/a	healthy	homo sapiens	naive
+sub-9	24	F	R	n/a	n/a	healthy	homo sapiens	naive
