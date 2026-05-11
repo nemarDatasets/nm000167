@@ -1,48 +1,50 @@
 {
-	"Name": "Motor imagery dataset from Ma et al. 2020",
-	"BIDSVersion": "1.9.0",
-	"HEDVersion": "8.4.0",
-	"DatasetType": "derivative",
-	"License": "CC-BY-4.0",
-	"Authors": [
-		"Xuelin Ma",
-		"Shuang Qiu",
-		"Changde Du",
-		"Junfeng Xing",
-		"Huiguang He"
-	],
-	"Funding": [
-		"National Key Research and Development Plan of China (No. 2017YFB1002502)",
-		"National Natural Science Foundation of China (No. 61976209)",
-		"National Natural Science Foundation of China (No. 61906188)"
-	],
-	"EthicsApprovals": [
-		"Ethics Committee of the Institute of Automation, Chinese Academy of Sciences"
-	],
-	"ReferencesAndLinks": [
-		"https://doi.org/10.7910/DVN/RBN3XG"
-	],
-	"GeneratedBy": [
-		{
-			"CodeURL": "https://github.com/NeuroTechX/moabb",
-			"Name": "moabb",
-			"Description": "Mother of All BCI Benchmarks",
-			"Version": "1.5.0"
-		}
-	],
-	"SourceDatasets": [
-		{
-			"DOI": "10.1038/s41597-020-0535-2",
-			"URL": "https://doi.org/10.7910/DVN/RBN3XG"
-		}
-	],
-	"Keywords": [
-		"motor imagery",
-		"EEG",
-		"BCI",
-		"same limb",
-		"hand",
-		"elbow"
-	],
-	"PublicationYear": 2020
+  "Name": "Motor imagery dataset from Ma et al. 2020",
+  "BIDSVersion": "1.9.0",
+  "HEDVersion": "8.4.0",
+  "DatasetType": "derivative",
+  "License": "CC-BY-4.0",
+  "Authors": [
+    "Xuelin Ma",
+    "Shuang Qiu",
+    "Changde Du",
+    "Junfeng Xing",
+    "Huiguang He"
+  ],
+  "Funding": [
+    "National Key Research and Development Plan of China (No. 2017YFB1002502)",
+    "National Natural Science Foundation of China (No. 61976209)",
+    "National Natural Science Foundation of China (No. 61906188)"
+  ],
+  "EthicsApprovals": [
+    "Ethics Committee of the Institute of Automation, Chinese Academy of Sciences"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.7910/DVN/RBN3XG"
+  ],
+  "GeneratedBy": [
+    {
+      "CodeURL": "https://github.com/NeuroTechX/moabb",
+      "Name": "moabb",
+      "Description": "Mother of All BCI Benchmarks",
+      "Version": "1.5.0"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "10.1038/s41597-020-0535-2",
+      "URL": "https://doi.org/10.7910/DVN/RBN3XG"
+    }
+  ],
+  "Keywords": [
+    "motor imagery",
+    "EEG",
+    "BCI",
+    "same limb",
+    "hand",
+    "elbow"
+  ],
+  "PublicationYear": 2020,
+  "DatasetDOI": "10.82901/nemar.nm000167",
+  "Version": "1.0.0"
 }
