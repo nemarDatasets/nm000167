@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.nm000167-blue)](https://doi.org/10.82901/nemar.nm000167)
+
 # Motor imagery dataset from Ma et al. 2020
 
 Motor imagery dataset from Ma et al. 2020.
