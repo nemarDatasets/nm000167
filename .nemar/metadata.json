@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "Motor imagery dataset from Ma et al. 2020",
+  "description": "A multi-channel EEG dataset comprising motor imagery recordings from 25 healthy subjects performing kinesthetic imagery of right hand and right elbow movements. The dataset contains 600 trials (300 per class) acquired across 15 sessions using 62-channel EEG at 1000 Hz sampling rate. This resource is designed to support brain-computer interface research and motor rehabilitation applications through standardized motor imagery paradigms.",
+  "methods_description": "EEG data were acquired using a Neuroscan SynAmps2 system with 62 channels at 1000 Hz sampling rate. Subjects performed motor imagery tasks (right hand vs. right elbow) following visual cues in a synchronous, offline paradigm. Each session consisted of 40 trials (20 per class) with 4-second imagery periods. Data were collected across 3 days with 5 sessions per day, totaling 15 sessions per subject.",
+  "license": "CC-BY-4.0",
+  "dataset_type": "derivative",
   "authors": {
     "Xuelin Ma": {
       "orcid": "0000-0001-7944-1981"
@@ -12,6 +17,26 @@
       "orcid": "0000-0002-0684-1711"
     }
   },
+  "keywords": [
+    {
+      "term": "motor imagery"
+    },
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "brain-computer interfaces"
+    },
+    {
+      "term": "kinesthetic imagery"
+    },
+    {
+      "term": "motor rehabilitation"
+    },
+    {
+      "term": "limb movement"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.1038/s41597-020-0535-2",
@@ -29,11 +54,6 @@
       "relation_type": "IsDescribedBy"
     },
     {
-      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000167",
-      "identifier_type": "URL",
-      "relation_type": "IsDescribedBy"
-    },
-    {
       "identifier": "10.21105/joss.01896",
       "identifier_type": "DOI",
       "relation_type": "References"
@@ -42,6 +62,11 @@
       "identifier": "10.1038/s41597-019-0104-8",
       "identifier_type": "DOI",
       "relation_type": "References"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000167",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
     }
   ],
   "funding_references": [
@@ -58,19 +83,17 @@
       "award_number": "61906188"
     }
   ],
-  "title": "Motor imagery dataset from Ma et al. 2020",
-  "license": "CC-BY-4.0",
-  "dataset_type": "derivative",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "EEG Dataset",
   "modalities": [
     "eeg"
   ],
-  "resource_type_specific": "EEG Dataset",
   "sizes": [
-    "24.1 GB (378 files)"
+    "24.1 GB (379 files)"
   ],
   "formats": [
     ".bdf",
+    ".cnt",
     ".html",
     ".json",
     ".md",
@@ -78,33 +101,5 @@
     ".yaml",
     ".yml"
   ],
-  "description": "A multi-channel EEG dataset comprising motor imagery recordings from 25 healthy subjects performing kinesthetic imagery of right hand and right elbow movements. The dataset contains 600 trials (300 per class) acquired across 15 sessions using 62-channel EEG at 1000 Hz sampling rate. This resource supports the development and evaluation of brain-computer interface systems for motor rehabilitation and prosthetic control applications.",
-  "methods_description": "EEG data were acquired using a Neuroscan SynAmps2 system with 62 channels at 1000 Hz sampling rate. Subjects performed motor imagery tasks (right hand vs. right elbow) following visual cues in a synchronous, offline paradigm. Each session consisted of 40 trials (20 per class) with 4-second imagery periods. Data were collected across 3 days with 5 sessions per day, totaling 15 sessions per subject.",
-  "keywords": [
-    {
-      "term": "motor imagery"
-    },
-    {
-      "term": "EEG"
-    },
-    {
-      "term": "BCI"
-    },
-    {
-      "term": "kinesthetic imagery"
-    },
-    {
-      "term": "motor rehabilitation"
-    },
-    {
-      "term": "same limb"
-    },
-    {
-      "term": "hand"
-    },
-    {
-      "term": "elbow"
-    }
-  ],
-  "source_hash": "ad72109f90e721f4a10b45bad809b49e7e6aff2401d1e35708c9c3d3e4962a96"
+  "source_hash": "c01c10f797b1386d0228a33a5179c7d3a019953e845ff5f2f585d2456a1d3b1c"
 }
