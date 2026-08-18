@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Motor imagery dataset from Ma et al. 2020",
-  "description": "A multi-channel EEG dataset comprising motor imagery recordings from 25 healthy subjects performing kinesthetic imagery of right hand and right elbow movements. The dataset contains 600 trials (300 per class) acquired across 15 sessions using 62-channel EEG at 1000 Hz sampling rate. This resource is designed to support brain-computer interface research and motor rehabilitation applications through standardized motor imagery paradigms.",
-  "methods_description": "EEG data were acquired using a Neuroscan SynAmps2 system with 62 channels at 1000 Hz sampling rate. Subjects performed motor imagery tasks (right hand vs. right elbow) following visual cues in a synchronous, offline paradigm. Each session consisted of 40 trials (20 per class) with 4-second imagery periods. Data were collected across 3 days with 5 sessions per day, totaling 15 sessions per subject.",
+  "description": "This dataset contains 62-channel EEG recordings from 25 healthy right-handed subjects performing kinesthetic motor imagery of the right hand or right elbow (same limb, different joints). Each subject completed 15 sessions across 3 days, yielding 600 trials total, designed to study joint-specific motor imagery for brain-computer interface (BCI) applications such as motor rehabilitation and prosthetic control. The data were converted to BIDS format using MOABB from the original dataset published by Ma et al. (2020) in Scientific Data.",
+  "methods_description": "EEG was recorded using a Neuroscan SynAmps2 system with 62 channels (standard_1005 montage) plus auxiliary EOG and mastoid channels, sampled at 1000 Hz with 50 Hz line noise. Subjects performed kinesthetic motor imagery of the right hand or right elbow following a visual cue, with 4-second imagery trials, in an offline synchronous paradigm across 15 sessions per subject (3 days x 5 sessions/day, 40 trials/session).",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -19,22 +19,25 @@
   },
   "keywords": [
     {
-      "term": "motor imagery"
-    },
-    {
       "term": "EEG"
     },
     {
-      "term": "brain-computer interfaces"
+      "term": "motor imagery"
     },
     {
-      "term": "kinesthetic imagery"
+      "term": "Brain-Computer Interfaces",
+      "subject_scheme": "MeSH",
+      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
     },
     {
-      "term": "motor rehabilitation"
+      "term": "same limb"
     },
     {
-      "term": "limb movement"
+      "term": "hand"
+    },
+    {
+      "term": "elbow"
     }
   ],
   "related_identifiers": [
@@ -89,7 +92,7 @@
     "eeg"
   ],
   "sizes": [
-    "24.1 GB (379 files)"
+    "57.8 GB (754 files)"
   ],
   "formats": [
     ".bdf",
@@ -101,5 +104,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "c01c10f797b1386d0228a33a5179c7d3a019953e845ff5f2f585d2456a1d3b1c"
+  "source_hash": "dfaecba47b80eb54d8c9ebde7ff4f60c21622a556b7627d2bbc704835a98cd29"
 }
