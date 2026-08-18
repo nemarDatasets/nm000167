@@ -2,1889 +2,2264 @@
  "dataset": "nm000167",
  "moabb_class": "Ma2020",
  "moabb_version_used": "1.5.0",
- "retrieved": "2026-08-11",
- "retrieved_by": "moabb.datasets.Ma2020.data_path()",
+ "retrieved": "2026-08-18",
+ "retrieved_by": "Harvard Dataverse guestbook-signed URLs (POST /api/access/datafile/{id} -> signedUrl); replaces an earlier fetch that cached empty bodies",
  "upstream_cache_root": "/expanse/lustre/scratch/bpinto/temp_project/sourcedata_staging/mne_data/MNE-ma2020-data",
  "license": "CC-BY-4.0",
  "doi": "10.1038/s41597-020-0535-2",
  "naming": "upstream_filenames_restored",
  "n_files": 375,
- "total_bytes": 0,
+ "total_bytes": 33681018390,
  "files": [
   {
    "file": "sub-001/sub-001_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87261488,
+   "sha256": "cca3b68d011663ab8512852d314bc96bd9cb3d145b30b6b937abad7efced4666",
+   "subject": "1"
   },
   {
    "file": "sub-001/sub-001_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87739888,
+   "sha256": "61dfd593536e294f444d304933c89370ab28720a5274a1aef4ffe7c9c7f680f6",
+   "subject": "1"
   },
   {
    "file": "sub-001/sub-001_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87126288,
+   "sha256": "c96f6a041ef3460ae0e47a06e9053831055fa4e70fc271f13fdfa0882fa0cc6a",
+   "subject": "1"
   },
   {
    "file": "sub-001/sub-001_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87188688,
+   "sha256": "dc5cd1eb21cbf5b096454b1633217a6ea7c7ca3c4bdd9ecf190f6c59100c53a9",
+   "subject": "1"
   },
   {
    "file": "sub-001/sub-001_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 86959888,
+   "sha256": "4aac0a712399d6abe90899ae5bc4d2ad9433b67fea4c51ed5eaf960b9f5bea72",
+   "subject": "1"
   },
   {
    "file": "sub-001/sub-001_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 86928688,
+   "sha256": "b7fbc040e3588ee00f5f44ba6c16bfebc409c194319024af399035f10f53a6b3",
+   "subject": "1"
   },
   {
    "file": "sub-001/sub-001_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 86793488,
+   "sha256": "8e66c969a744d48404bd85a2272f7edac8dcbfe1c768d7b5a8b3a86f6655a7bc",
+   "subject": "1"
   },
   {
    "file": "sub-001/sub-001_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 86481488,
+   "sha256": "2c227e13e338be5a77495b32b561a51246244eded2481290474ae79beac9d3db",
+   "subject": "1"
   },
   {
    "file": "sub-001/sub-001_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87251088,
+   "sha256": "f39f6441ae898012d6ea3e4441ffe73eb002358e9865fdc9f4c16204f857b6ff",
+   "subject": "1"
   },
   {
    "file": "sub-001/sub-001_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 86720688,
+   "sha256": "aa8f4a34f492599e49f8ac30be50eacd68c09c0ec34f24228add433e81199f99",
+   "subject": "1"
   },
   {
    "file": "sub-001/sub-001_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88166288,
+   "sha256": "a9761d6eed72907732ee0dfc05face1e7d41bfc1c277dfd12a8a6e872fa9f021",
+   "subject": "1"
   },
   {
    "file": "sub-001/sub-001_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87885488,
+   "sha256": "9e04681429b3e362a6d2d3b6c38d5bc608cacd01f1a224b22fc858514922215d",
+   "subject": "1"
   },
   {
    "file": "sub-001/sub-001_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87219888,
+   "sha256": "94616a4e7e97a106bda9db2532c51aeaad1ec951e967b34d08c0b11da7df6fa1",
+   "subject": "1"
   },
   {
    "file": "sub-001/sub-001_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90599888,
+   "sha256": "2aa73123eefb683a0d98d992c90e6a5c769dac49fbf7644efd25ce16763e27b3",
+   "subject": "1"
   },
   {
    "file": "sub-001/sub-001_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87875088,
+   "sha256": "f54b6fb1072f7dc5fd777268cb0027cccd41209a733855ea578c8c624e4cf204",
+   "subject": "1"
   },
   {
    "file": "sub-002/sub-002_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 86887088,
+   "sha256": "b5793496c886c2207cdc6bc629fcd38044c4cc135cb142ba84feee9b87b0aaf4",
+   "subject": "2"
   },
   {
    "file": "sub-002/sub-002_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 86637488,
+   "sha256": "ed121ab77a39b15075e4153d5b55df3f4e499474a2d28c158f188503ba1cea3c",
+   "subject": "2"
   },
   {
    "file": "sub-002/sub-002_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 86814288,
+   "sha256": "7bab271cd53fc80b60db19d42973a625325ee72b46bfb17df4ae28b134c8d197",
+   "subject": "2"
   },
   {
    "file": "sub-002/sub-002_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88114288,
+   "sha256": "ee0ee59f9fd95d1c5d439b8cd5b286acc0856f9c095ae9e74c78e98626599c3f",
+   "subject": "2"
   },
   {
    "file": "sub-002/sub-002_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88051888,
+   "sha256": "8c48e0d73f37f2cf0404bbfe79d029fcc2e63c5d6a822a514087cb09e78375e7",
+   "subject": "2"
   },
   {
    "file": "sub-002/sub-002_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88322288,
+   "sha256": "d378420a2e355cb8e3cb4b3a7f334d1d02318f6d69708eecb21ec5e63d2e07eb",
+   "subject": "2"
   },
   {
    "file": "sub-002/sub-002_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88072688,
+   "sha256": "a77d03b119bf6bd93f7a293abf9340c102acf7c41c2ee22f31bb9bfe547e0be3",
+   "subject": "2"
   },
   {
    "file": "sub-002/sub-002_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87760688,
+   "sha256": "6e420160c91f9ad9c11765d400cdf4fc708644f110093c46733fd35bb2365743",
+   "subject": "2"
   },
   {
    "file": "sub-002/sub-002_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88093488,
+   "sha256": "c2d1b228b93f042e3da40e1d83dafcb4437423a5ff6db5bd526f8a6c0f7986e0",
+   "subject": "2"
   },
   {
    "file": "sub-002/sub-002_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87968688,
+   "sha256": "531f65aca4601d8202a4bf0a1764dd1b411ac5ae9ff6a5fa5f2e2ca817872bea",
+   "subject": "2"
   },
   {
    "file": "sub-002/sub-002_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87511088,
+   "sha256": "bd21c2802321383af924305fe3c9f992f32120f399b7a552520c638c3e77c2b3",
+   "subject": "2"
   },
   {
    "file": "sub-002/sub-002_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87802288,
+   "sha256": "2266d9680c9b947bd2d2c416c2538fcb381dc78bf83caa96d4ebeb4ac7721154",
+   "subject": "2"
   },
   {
    "file": "sub-002/sub-002_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87968688,
+   "sha256": "411219757c0473f47cca17c7beb61caf26d957c180dfaf846da11a652ba7e35c",
+   "subject": "2"
   },
   {
    "file": "sub-002/sub-002_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87729488,
+   "sha256": "bf0c324ec303893ff70ca9b5cc26a79577fd7db108d32d1e2e2cd822ada167ce",
+   "subject": "2"
   },
   {
    "file": "sub-002/sub-002_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88103888,
+   "sha256": "d230cbb570c71390176961c36b77da2b2aea701ac5564d4309cd14377f7bc380",
+   "subject": "2"
   },
   {
    "file": "sub-003/sub-003_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88187088,
+   "sha256": "31c6c737ad6437eaad4a4b3a2d3211e631d3929b486b3b554161171a65b92623",
+   "subject": "3"
   },
   {
    "file": "sub-003/sub-003_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87947888,
+   "sha256": "7938e9e40992f42c4262ff4b6c869b2d71fa5d2eb9c4ba00567f32c4a81dfdce",
+   "subject": "3"
   },
   {
    "file": "sub-003/sub-003_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88447088,
+   "sha256": "868fc42b229adb0a1c5ac866399a071ef9d0cef786036f942dd6274aa5aa3656",
+   "subject": "3"
   },
   {
    "file": "sub-003/sub-003_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88020688,
+   "sha256": "c46b7b1aff0ddb749d8001bf38170dc5627ddf0370257e31930a594217d5a5ab",
+   "subject": "3"
   },
   {
    "file": "sub-003/sub-003_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87105488,
+   "sha256": "e733122ab1e7a47eb121fc922fa8113319a2c7f88af957a624ae34ce4867a71c",
+   "subject": "3"
   },
   {
    "file": "sub-003/sub-003_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 86980688,
+   "sha256": "a7f8007c39e0a52e63bdbe92926a1b331c0cc4ae7392dcaad53ddd9c998b29f8",
+   "subject": "3"
   },
   {
    "file": "sub-003/sub-003_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88291088,
+   "sha256": "057f0cd789eeccfc8124dbf786d29b91d52bac689e6ff7f5a0c62ee7f567f3c9",
+   "subject": "3"
   },
   {
    "file": "sub-003/sub-003_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88686288,
+   "sha256": "7bf55021ebde9d98fae1e1de09fb6b0effc3e44d6a21ce7694636ae2376ba3c8",
+   "subject": "3"
   },
   {
    "file": "sub-003/sub-003_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88561488,
+   "sha256": "371db559fe78428a5ee7016c1482dea866f52fa31f1b2cc6d1d81071137348af",
+   "subject": "3"
   },
   {
    "file": "sub-003/sub-003_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88124688,
+   "sha256": "cecf9df83db20345160aa5347b6775eedd45d47207e4927180ea012813e1dd9a",
+   "subject": "3"
   },
   {
    "file": "sub-003/sub-003_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91317488,
+   "sha256": "5a03f23d4a7f21df4ec4df8835e175198cb8bdab97543d58383107df47fe00eb",
+   "subject": "3"
   },
   {
    "file": "sub-003/sub-003_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88582288,
+   "sha256": "ffce5d24c46408a6b86d2e048e99196e9fd6ef7bf7a613b3ef17f1b7eb769688",
+   "subject": "3"
   },
   {
    "file": "sub-003/sub-003_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88811088,
+   "sha256": "33bbe639d7d6ee6d191e3c6fe5fc49d0972b939f1a5e53941782001a6da2e7a3",
+   "subject": "3"
   },
   {
    "file": "sub-003/sub-003_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88509488,
+   "sha256": "9dcd8dc4d898eca11d0aaae4384309f9c052e8f4570678d8472f966bc5148f3d",
+   "subject": "3"
   },
   {
    "file": "sub-003/sub-003_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88270288,
+   "sha256": "614ebee84acfe1cf67d72801a7fb3344055282a606f263d507b47e81850fc97d",
+   "subject": "3"
   },
   {
    "file": "sub-004/sub-004_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88488688,
+   "sha256": "cd2e3410cc3d93fbbafdde4808f9523bf1497827df6e61b0ac2c348731cfdc7f",
+   "subject": "4"
   },
   {
    "file": "sub-004/sub-004_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88519888,
+   "sha256": "dd50c09201371cc9f03df4c3baca691b4ff5a50f0be433079c75d73665a3f1e9",
+   "subject": "4"
   },
   {
    "file": "sub-004/sub-004_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88155888,
+   "sha256": "50df3d79679765199879f04482b9c26cceebfb0c0cdd4841002bfa228ec1e6b7",
+   "subject": "4"
   },
   {
    "file": "sub-004/sub-004_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88207888,
+   "sha256": "2aaab7f47decc55be9b8e0c71e8551c132d72a65c8b5a357591f62850f17bce1",
+   "subject": "4"
   },
   {
    "file": "sub-004/sub-004_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88249488,
+   "sha256": "cd4b64652c17e510fe70360eda2ddd3a56ba7eb0125dd5130860a8253e900f2b",
+   "subject": "4"
   },
   {
    "file": "sub-004/sub-004_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88176688,
+   "sha256": "00d8167b8a2e61373ca7440de4669ef6ca9fba80463d1e9698f34c42a7442e14",
+   "subject": "4"
   },
   {
    "file": "sub-004/sub-004_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88031088,
+   "sha256": "322ae90910b98d935710236127884ba34fc6b8d3bdc7b2d22cc26e779c8cda05",
+   "subject": "4"
   },
   {
    "file": "sub-004/sub-004_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87344688,
+   "sha256": "b7a8d243ba46eee544c76b03f3c33252a005a63cbe0976e0e61035d0b37a4ef0",
+   "subject": "4"
   },
   {
    "file": "sub-004/sub-004_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88103888,
+   "sha256": "9ffaa9a1abf79f00542dc1d23f030014b00bb29eebbc619ac6f8aacc551a5417",
+   "subject": "4"
   },
   {
    "file": "sub-004/sub-004_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88311888,
+   "sha256": "c6091f91841b04dc5d0478bd86463187f3010d8bd83a895df3b0bfa5120cf4b2",
+   "subject": "4"
   },
   {
    "file": "sub-004/sub-004_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87698288,
+   "sha256": "df43abf3a3d1ade3f9db10b633cb8cb79e0f5f884afb96fa4ad6943e1354f78b",
+   "subject": "4"
   },
   {
    "file": "sub-004/sub-004_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87999888,
+   "sha256": "8d932ab630c9c15e8bcc84dcfa4ff662f2b0883ec0aa47bb5c8df9985f1dc8bf",
+   "subject": "4"
   },
   {
    "file": "sub-004/sub-004_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87979088,
+   "sha256": "e9d94869dfbbb649bd2150904e0acf3dfa37bb6a979617084bcbc5da41ae1c3d",
+   "subject": "4"
   },
   {
    "file": "sub-004/sub-004_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87760688,
+   "sha256": "72acb2461ee6486f577717abfcc24d23342e6d4300e3d500698c7d471e71879f",
+   "subject": "4"
   },
   {
    "file": "sub-004/sub-004_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87916688,
+   "sha256": "ed355ec35605c050441defeb95e0402c94dfa8d1a424cb848ce625883fcf3ba1",
+   "subject": "4"
   },
   {
    "file": "sub-005/sub-005_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88675888,
+   "sha256": "dbfb433e4f55c011e60b720f2cc267b344b8e6dce7cddcb08d21fb835ac2abc9",
+   "subject": "5"
   },
   {
    "file": "sub-005/sub-005_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88187088,
+   "sha256": "951f375eb167caf99ec0216ba95a928aded688ad49a61d8b35a52257d522149f",
+   "subject": "5"
   },
   {
    "file": "sub-005/sub-005_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87864688,
+   "sha256": "d0e41ca7ec6a5a86dda8e6826df0186b6e97c6e632c1010949f696f1ec2f7e46",
+   "subject": "5"
   },
   {
    "file": "sub-005/sub-005_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87219888,
+   "sha256": "913eb664229b31891722c30d52c19d3667d6dc4a25dd5ab947ec6505c6618cac",
+   "subject": "5"
   },
   {
    "file": "sub-005/sub-005_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88187088,
+   "sha256": "fa5c4dd7cfc212af7584da8ffc624e333c56f14826b887c4d81d9fb3e15b597b",
+   "subject": "5"
   },
   {
    "file": "sub-005/sub-005_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88249488,
+   "sha256": "f9da87d8c6746b9bb4e95f696551ad9c8b4e900f0623a8ddc57be5539cafb289",
+   "subject": "5"
   },
   {
    "file": "sub-005/sub-005_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88072688,
+   "sha256": "20f4430226238f290317750888c6d5be0d414bbb618051658fc5e5d891b96931",
+   "subject": "5"
   },
   {
    "file": "sub-005/sub-005_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88291088,
+   "sha256": "4829bef12e62d978d165f6ae4091453ab6c5203c88244e6f8101013a2e99a739",
+   "subject": "5"
   },
   {
    "file": "sub-005/sub-005_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88041488,
+   "sha256": "af9a6da8b723088803a02a22881c74dd9f61194b22f64344cede3703c474d3f1",
+   "subject": "5"
   },
   {
    "file": "sub-005/sub-005_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88135088,
+   "sha256": "e23998bac93ef4c04af4463cc3b94d734795cd0b29e6085845f15ff3ff189417",
+   "subject": "5"
   },
   {
    "file": "sub-005/sub-005_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88946288,
+   "sha256": "28003b9a99357be96854182d699f93b03117fc8a004982731b406cd0eeacc50c",
+   "subject": "5"
   },
   {
    "file": "sub-005/sub-005_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88374288,
+   "sha256": "1eac0b3d76a8fdb44162299c0e3aab3157b274287c4a44af24c5eaf55eca3125",
+   "subject": "5"
   },
   {
    "file": "sub-005/sub-005_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88301488,
+   "sha256": "414930b046ce01f35072176b462fcb6b8ffd0653ecb15cd14a7fac2f6f575eda",
+   "subject": "5"
   },
   {
    "file": "sub-005/sub-005_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88436688,
+   "sha256": "99d5f9e7885e0dd5490435f016fa469cb28314fef102e4ea1a0766630aae5a7e",
+   "subject": "5"
   },
   {
    "file": "sub-005/sub-005_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88207888,
+   "sha256": "c2e60513cc61ec026611f3b9c893f12f9d3be5a5b1135fd04cf94a730661640e",
+   "subject": "5"
   },
   {
    "file": "sub-006/sub-006_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88467888,
+   "sha256": "5ac6d493b4c7de432b3c44cbcf21f1fc5de9282e06676a83659fd55e2af67c0e",
+   "subject": "6"
   },
   {
    "file": "sub-006/sub-006_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87188688,
+   "sha256": "346e758fa52f984664e546ea0a9aaf0369dde76aef2b1e71fecc1773f86a2cc2",
+   "subject": "6"
   },
   {
    "file": "sub-006/sub-006_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87459088,
+   "sha256": "018d3deb811d5326b46c1c53e59fbef241f781d5f0984eb955edbf1d4d151ecd",
+   "subject": "6"
   },
   {
    "file": "sub-006/sub-006_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88571888,
+   "sha256": "c5047bf0edeefcd3ee3172ff73bfc7546d95ad8cd335fcd3ef554fbb2fb0b2be",
+   "subject": "6"
   },
   {
    "file": "sub-006/sub-006_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87563088,
+   "sha256": "c50bfc8afd761f6e536f449ed2d9a0d4730b620cedb4d1baa6c86116f6f6c694",
+   "subject": "6"
   },
   {
    "file": "sub-006/sub-006_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87646288,
+   "sha256": "9ba0d9e15547142a2b27d4302482e9ed372c3e9f6c977abbb3e15f45f80d991a",
+   "subject": "6"
   },
   {
    "file": "sub-006/sub-006_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87906288,
+   "sha256": "f975ced8831b05abeaee7b419d16b2988e9d861a2368b926f9aaf56e3efdd7eb",
+   "subject": "6"
   },
   {
    "file": "sub-006/sub-006_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87739888,
+   "sha256": "f044ce6329c158d46ed13fca5f78eecd6d5d33132511da9fbb46f00e107dbc59",
+   "subject": "6"
   },
   {
    "file": "sub-006/sub-006_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87937488,
+   "sha256": "4ca1a025da30924bac5039f6087d59aab06c08f832eb3b5e8951e3264ef1083e",
+   "subject": "6"
   },
   {
    "file": "sub-006/sub-006_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88363888,
+   "sha256": "469cc9f38bb5cc11c2d8eafca10006e298b75d265bdc20a42a1fef4ba93f5882",
+   "subject": "6"
   },
   {
    "file": "sub-006/sub-006_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88051888,
+   "sha256": "1dd4195a0760efc87e051d643212d9351f1868ab657783dbcc417a4cf4edc0cd",
+   "subject": "6"
   },
   {
    "file": "sub-006/sub-006_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87843888,
+   "sha256": "4469f144329f70ab6dfe96dc7680ed2ae4cb5f60bafbf1261de4c580324f78df",
+   "subject": "6"
   },
   {
    "file": "sub-006/sub-006_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87895888,
+   "sha256": "e5cfb0b0b0fd58bf519a43b8006c298a08590dfaf15c3adab92f4d9afd457722",
+   "subject": "6"
   },
   {
    "file": "sub-006/sub-006_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87719088,
+   "sha256": "398038b55b33e296500d04603fbb3e20fdec2a191035a9566d913402573ef561",
+   "subject": "6"
   },
   {
    "file": "sub-006/sub-006_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88083088,
+   "sha256": "0b768a29bd7a25323b6d65e148174042cb8e875333db7b0fa333d9d086c48925",
+   "subject": "6"
   },
   {
    "file": "sub-007/sub-007_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87573488,
+   "sha256": "907e72009f203ed93cb043b03447e2341e1c693d6dc6efd727a88e43996dae7f",
+   "subject": "7"
   },
   {
    "file": "sub-007/sub-007_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88363888,
+   "sha256": "dc5d2f0fc3101ad1f05e67e5d272aa0601fcca52750bf659955d6dabf4c9f302",
+   "subject": "7"
   },
   {
    "file": "sub-007/sub-007_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88301488,
+   "sha256": "be7e7fdc4201299855f23666ca1187afd02985a3d9a5688c79c13f86f45e13a2",
+   "subject": "7"
   },
   {
    "file": "sub-007/sub-007_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88270288,
+   "sha256": "0d164fd411379d0723923cc79c069d8a608b50cc7f7a1f0c6899bcc5a248679c",
+   "subject": "7"
   },
   {
    "file": "sub-007/sub-007_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88145488,
+   "sha256": "7339bf28681304f72070b2e75c873fcd0d5a6ecc79e15eff7536378b5b4af949",
+   "subject": "7"
   },
   {
    "file": "sub-007/sub-007_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88894288,
+   "sha256": "02e0a6d955870aa4a4aadbeeb96d73a8fc4e6e58f84c488c35865ed94c281653",
+   "subject": "7"
   },
   {
    "file": "sub-007/sub-007_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87791888,
+   "sha256": "0e220c15eacfff8b368d1ef4404edb8eef7223f1e871f76b4f6ea0c6080a20dc",
+   "subject": "7"
   },
   {
    "file": "sub-007/sub-007_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88083088,
+   "sha256": "a050c874b6d0f8be75e25b9e709343ddedfdb9a14eccfb1c2b54e068949d5f6e",
+   "subject": "7"
   },
   {
    "file": "sub-007/sub-007_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88197488,
+   "sha256": "8762bc1e0c448a82d1c2118c9128ad11a8c509ca1d7f8509bb4273c5db62ec26",
+   "subject": "7"
   },
   {
    "file": "sub-007/sub-007_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88457488,
+   "sha256": "c3aa731ba754099c3e04f40742104929c7f532243e1c9b1e577101068c2e1ccb",
+   "subject": "7"
   },
   {
    "file": "sub-007/sub-007_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88103888,
+   "sha256": "76fc3cbbccad7e04eedf1956814d10e079d59564f7b9ce6f3522b9ebfe90050e",
+   "subject": "7"
   },
   {
    "file": "sub-007/sub-007_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88041488,
+   "sha256": "2bfd88a581119aa846cfeb6483e57d226dfc63598aa7c457957eb7c351dcdeea",
+   "subject": "7"
   },
   {
    "file": "sub-007/sub-007_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87833488,
+   "sha256": "1592005f18c622d9406f4d3d524373c368a599557b6be29c7b0e6c03a459966c",
+   "subject": "7"
   },
   {
    "file": "sub-007/sub-007_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88218288,
+   "sha256": "5b9967d6239e75d8d5f4d8eadfa7309035b239d3592ed9d1f165adf52402a094",
+   "subject": "7"
   },
   {
    "file": "sub-007/sub-007_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88270288,
+   "sha256": "9e9396305eec55d2d69e4aa456814685bca73a1d4db967560bbc0e4b76f2d7ab",
+   "subject": "7"
   },
   {
    "file": "sub-008/sub-008_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88499088,
+   "sha256": "cc1768fa6928ef1df3e2f09909d23ec65342c82d93c3fe9e786232714d8180a0",
+   "subject": "8"
   },
   {
    "file": "sub-008/sub-008_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88582288,
+   "sha256": "b32017f2baa3331ccc3793fade46de7a4e75832b3b59425ec97d9acffe09614f",
+   "subject": "8"
   },
   {
    "file": "sub-008/sub-008_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87719088,
+   "sha256": "6e1e61f61a2308660260c0cdfa6983f20949d5622f2bd1bb954c62546056532d",
+   "subject": "8"
   },
   {
    "file": "sub-008/sub-008_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87864688,
+   "sha256": "d69cdf404cc4e4e5dd2a6c3bdcfb58541f7dc0af1efdf2a385d78a66c5eee276",
+   "subject": "8"
   },
   {
    "file": "sub-008/sub-008_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88322288,
+   "sha256": "d146f0f58851c2f5d15177683f751b0055717c02ae89d78501d626df60710e62",
+   "subject": "8"
   },
   {
    "file": "sub-008/sub-008_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87989488,
+   "sha256": "3e5e066174b04aaef154ee19e8856f83666868a5bc20ef7c29a4819140a149b7",
+   "subject": "8"
   },
   {
    "file": "sub-008/sub-008_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88176688,
+   "sha256": "bc7675c0fa4e238fac2ebc18512958239de5c06c07ae303f2f2b909d59778660",
+   "subject": "8"
   },
   {
    "file": "sub-008/sub-008_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88343088,
+   "sha256": "7cf90f0dd2c51e029c15936e9992962f84907c6cbbd0f5e18e7acd8bfbeeb555",
+   "subject": "8"
   },
   {
    "file": "sub-008/sub-008_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88083088,
+   "sha256": "b4aa8ff35b963a868c890eb9f055cfa4ac2044174cf021ef197a4b2bb3de556b",
+   "subject": "8"
   },
   {
    "file": "sub-008/sub-008_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88686288,
+   "sha256": "2aa61d09b87e7b620a5229522926981c6c5e131c84162e631e8df452a1dbf1bc",
+   "subject": "8"
   },
   {
    "file": "sub-008/sub-008_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88135088,
+   "sha256": "a9c926e7fa759b7ceafca4f3254221a6d31cf0a73a32da67338206506adf43d3",
+   "subject": "8"
   },
   {
    "file": "sub-008/sub-008_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88270288,
+   "sha256": "61f06ea1172b3dcb417fa1733252ab58f1a7218642b0f9bf04444cf1b98dcd0b",
+   "subject": "8"
   },
   {
    "file": "sub-008/sub-008_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87999888,
+   "sha256": "cdb92b49c1963599406d1db5e1777692f5e44ae86873cc646d3fa3748275b8c9",
+   "subject": "8"
   },
   {
    "file": "sub-008/sub-008_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88363888,
+   "sha256": "f672b191257103b5828d813af630390dab155632911ac4dbfb7aeb8363e2de2a",
+   "subject": "8"
   },
   {
    "file": "sub-008/sub-008_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88821488,
+   "sha256": "7efdd12a85b91cb4c5e5823b5ab83eea2e62b9da86a969a11aee65f2855fe3aa",
+   "subject": "8"
   },
   {
    "file": "sub-009/sub-009_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87999888,
+   "sha256": "84c8bf848922d63e06dd95aa5b79df07d63fb444cadbf1fbb2e6434c15bd9600",
+   "subject": "9"
   },
   {
    "file": "sub-009/sub-009_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87542288,
+   "sha256": "3345b026c9d5f8d71d92bcb3a21a3d19a60dee51f6c216444d82b956f4082f4d",
+   "subject": "9"
   },
   {
    "file": "sub-009/sub-009_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87802288,
+   "sha256": "371906f1d1c00d5118b33580418b83ae5cb6e6ceb0e72928e32355faa8fa1c07",
+   "subject": "9"
   },
   {
    "file": "sub-009/sub-009_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88665488,
+   "sha256": "f35ba43910c08048de4c8d8eca55b96995d2fc3c3ef6ab3102879cf25be4a8c3",
+   "subject": "9"
   },
   {
    "file": "sub-009/sub-009_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87979088,
+   "sha256": "101f8f880fb142a2a369ee9a55e7a09c88cb3f3359f59c2fd6c29e396fad5488",
+   "subject": "9"
   },
   {
    "file": "sub-009/sub-009_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87542288,
+   "sha256": "bb8a5fce06f571c37ebd47a21e94a8f86b77cc1dedd779415b9785742c8d29d8",
+   "subject": "9"
   },
   {
    "file": "sub-009/sub-009_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88415888,
+   "sha256": "b3a01fa5c2f0a2ac6b96f35804e983f59a7c76595cee4ab88cc02e85daa66efd",
+   "subject": "9"
   },
   {
    "file": "sub-009/sub-009_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87989488,
+   "sha256": "720703e606d50c943569820d0dafbfc9892e19bb8a6e33bd280645b06ac47909",
+   "subject": "9"
   },
   {
    "file": "sub-009/sub-009_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88478288,
+   "sha256": "bf9bdc4f7b524fd3ea45ec8da731bfc2ec5ddff6c558848066331b00f155627b",
+   "subject": "9"
   },
   {
    "file": "sub-009/sub-009_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87521488,
+   "sha256": "d1e5c4e99b9cc6c1617d113fd55a4e0cb737c8ab4629f794d3c539287e979df6",
+   "subject": "9"
   },
   {
    "file": "sub-009/sub-009_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88436688,
+   "sha256": "f823fe285f41d93e6c7718b2fbd98d3882d6e9259a93506a5e896db8408c3105",
+   "subject": "9"
   },
   {
    "file": "sub-009/sub-009_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88634288,
+   "sha256": "5bbf511f3e99a303d2684300208044898f8a1a24026c6b4b41393485ca6eea6c",
+   "subject": "9"
   },
   {
    "file": "sub-009/sub-009_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 89008688,
+   "sha256": "b62a34b9e28d47a91d1d40548b9d953fe4484b86e0425a51316ceb4874810c9f",
+   "subject": "9"
   },
   {
    "file": "sub-009/sub-009_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88249488,
+   "sha256": "323e5395e07ca2aa31225600b7704b3aeb2c2a86d6936580fe369aec995f0852",
+   "subject": "9"
   },
   {
    "file": "sub-009/sub-009_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88488688,
+   "sha256": "38c41d5a7b41c222698821e9896c5aaf524b65e3597ce923039226fdd4261be0",
+   "subject": "9"
   },
   {
    "file": "sub-010/sub-010_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88405488,
+   "sha256": "febeae986e0666333e872c943488cbd0e6f89b6fe429204f07125953dcaaa731",
+   "subject": "10"
   },
   {
    "file": "sub-010/sub-010_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88915088,
+   "sha256": "51fe940e3124f2aad66c00f5ec5bef74c7dddb172430409b79d2c5a77968944f",
+   "subject": "10"
   },
   {
    "file": "sub-010/sub-010_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88592688,
+   "sha256": "4946d24ed61f3d00dec5f8ec1cefe91fc25cec5899bc05cea4e0741d484bd225",
+   "subject": "10"
   },
   {
    "file": "sub-010/sub-010_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87781488,
+   "sha256": "e6b9382afb85f537944f8e91e87df07c3136b3524d7c5c65b93c1aa293204827",
+   "subject": "10"
   },
   {
    "file": "sub-010/sub-010_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87791888,
+   "sha256": "0f80581657515732e11dc35cd085107d597c0c765db5c9cea50e162abf895909",
+   "subject": "10"
   },
   {
    "file": "sub-010/sub-010_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87885488,
+   "sha256": "c000910a49ff11d9852bbf2382c13af0e08fa12bbfa9133da59b640a76995f91",
+   "subject": "10"
   },
   {
    "file": "sub-010/sub-010_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87968688,
+   "sha256": "b567407d4c9049b1b5e6f93df3d350e4adf681c94e6838883a06db3c6af1447e",
+   "subject": "10"
   },
   {
    "file": "sub-010/sub-010_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88384688,
+   "sha256": "5a6f5df17031966be96b6b7259e7bfced9962c1b9a5bef4821372bc65ba7d234",
+   "subject": "10"
   },
   {
    "file": "sub-010/sub-010_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88478288,
+   "sha256": "17c8edfcf9d6b912c6d613dd636ad8573db17d3457c32569351843d4038009f1",
+   "subject": "10"
   },
   {
    "file": "sub-010/sub-010_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87781488,
+   "sha256": "d7d9be03949e6fa69a65e5c2ef5fc0064a7af264d000a353aee4ba39606e55ae",
+   "subject": "10"
   },
   {
    "file": "sub-010/sub-010_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 87989488,
+   "sha256": "b326d8e5ef7722307b94c9bd0edc102d144c8856f9616b9ebccf85cd992ac523",
+   "subject": "10"
   },
   {
    "file": "sub-010/sub-010_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88051888,
+   "sha256": "701b012a8022dba035e623a16bd1cda3187e61aaa59d21350f337e2a3c6938e7",
+   "subject": "10"
   },
   {
    "file": "sub-010/sub-010_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88561488,
+   "sha256": "74cd6c7161fd3b77c55a4c7b184f9ceff62146194f665b54e840786361f5a784",
+   "subject": "10"
   },
   {
    "file": "sub-010/sub-010_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88280688,
+   "sha256": "15496bbaf7b270a2e06a066d821155f585bcf085ac37d22d23963ee2fa2480dc",
+   "subject": "10"
   },
   {
    "file": "sub-010/sub-010_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 88332688,
+   "sha256": "3af8a4af09d77d9121b50b9df0cfa2f760135cb3117ab9afbe89efe0a562abe5",
+   "subject": "10"
   },
   {
    "file": "sub-011/sub-011_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91903926,
+   "sha256": "45db29e2c34cc3b5c6b81c64520c8b5213e8ac06e5585c84bda628b7a4abac13",
+   "subject": "11"
   },
   {
    "file": "sub-011/sub-011_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90714006,
+   "sha256": "06054b83a7b388542ca74316844bbebcf9afc4667e25af8314425f49fc7124a4",
+   "subject": "11"
   },
   {
    "file": "sub-011/sub-011_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90585366,
+   "sha256": "6b636dd9a7933b2466bab989375a44684c21b4545a1d8cfa3b2f1c0eb1a49356",
+   "subject": "11"
   },
   {
    "file": "sub-011/sub-011_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 94080086,
+   "sha256": "d9542b351649d689ae48c4db6a86a1bbc46c034cd602f26f0b1bff1702a2b98a",
+   "subject": "11"
   },
   {
    "file": "sub-011/sub-011_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90982006,
+   "sha256": "e575c7ec09859b5c365ae8891d44f7b29381d51625a4d29fe89f5ac9676d576d",
+   "subject": "11"
   },
   {
    "file": "sub-011/sub-011_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91421526,
+   "sha256": "6a7ad51a898e749f72e12afb79e7ff5d389b11fa035477cd8d78e832899b0d8d",
+   "subject": "11"
   },
   {
    "file": "sub-011/sub-011_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90692566,
+   "sha256": "d16023e2a7d74fdbb666640c375195b2e1ebbf6361f30a5fe6beaf264459389a",
+   "subject": "11"
   },
   {
    "file": "sub-011/sub-011_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 93233206,
+   "sha256": "4606c434770c28a491f9ba4ff4350a570ed4b049e2412fca2cf9eaa19fa30c72",
+   "subject": "11"
   },
   {
    "file": "sub-011/sub-011_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91571606,
+   "sha256": "65d29f5eadae2b8477154ed11658a40f4c9f84da785fcca253ba299408ae055e",
+   "subject": "11"
   },
   {
    "file": "sub-011/sub-011_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 95034166,
+   "sha256": "cf98fd081fe73c5412287e2be00f4f03fca2bac688add2fb7632f7c27232a653",
+   "subject": "11"
   },
   {
    "file": "sub-011/sub-011_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91142806,
+   "sha256": "7476a1e83d41d621e9004c95f506b92c7ac4eaef0947fe50a5403922124e2794",
+   "subject": "11"
   },
   {
    "file": "sub-011/sub-011_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91528726,
+   "sha256": "36d2f1e33eb165864de9b7fe4efba622b6af4a859fb33fec9c086c50e6003cb2",
+   "subject": "11"
   },
   {
    "file": "sub-011/sub-011_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91378646,
+   "sha256": "74daa372ef680b7f30a7555199efbe2020b30012d014c60b9358b7c93cc4eed6",
+   "subject": "11"
   },
   {
    "file": "sub-011/sub-011_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91110646,
+   "sha256": "da3c712f89ab7017a4140a82826810995b1c09be036aaaf999b8dbd24e5eda14",
+   "subject": "11"
   },
   {
    "file": "sub-011/sub-011_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91046326,
+   "sha256": "333b9fe9b4b6156dd26cf850726a2053548e9c555a9de9bfb129a9131a14b0e7",
+   "subject": "11"
   },
   {
    "file": "sub-012/sub-012_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91260726,
+   "sha256": "96cfdcaa194b8ee92684570bdd99cd4760c1448ac3207939b5984e6cb0ac0d54",
+   "subject": "12"
   },
   {
    "file": "sub-012/sub-012_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91121366,
+   "sha256": "b830afa5958099c08b4fb7c244116de63ae1a278f11853c1b7e78676f4645f86",
+   "subject": "12"
   },
   {
    "file": "sub-012/sub-012_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90767606,
+   "sha256": "ed49870049d32d6b94d35bd874a45a5bf4168efb41fdb6a7178c0d24c4b9d2be",
+   "subject": "12"
   },
   {
    "file": "sub-012/sub-012_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90521046,
+   "sha256": "789697596c51239f0241ab0c21fca6d988e56ed21fd07ce224410df6282c73b6",
+   "subject": "12"
   },
   {
    "file": "sub-012/sub-012_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91089206,
+   "sha256": "08f136c76f24287258418b018ad8eaaea22b7846809003f0fd19b213bb2cefee",
+   "subject": "12"
   },
   {
    "file": "sub-012/sub-012_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90778326,
+   "sha256": "bcca02854100538b2ecaf6b8ff4a3b90262c5f97c90557f190eca60a1caa4c0a",
+   "subject": "12"
   },
   {
    "file": "sub-012/sub-012_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90874806,
+   "sha256": "7ebda5fa55ca4d0bcd41e2a2fa77185032a4984040dbb921be8175d8d039717c",
+   "subject": "12"
   },
   {
    "file": "sub-012/sub-012_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90703286,
+   "sha256": "6845bcfe3f98038837882b92eb5b44f8d74b13eb150f7ba80c2f9b68945aff5e",
+   "subject": "12"
   },
   {
    "file": "sub-012/sub-012_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90896246,
+   "sha256": "aee43eb0cb52b61b347a8e66f877dd746631c133ab07a5456c65792311b21be0",
+   "subject": "12"
   },
   {
    "file": "sub-012/sub-012_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91239286,
+   "sha256": "42a07dab7b3bf57bdfc784601a7c05e20bdaf499e0cfca95da23e3067d97f392",
+   "subject": "12"
   },
   {
    "file": "sub-012/sub-012_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91217846,
+   "sha256": "c495b0a5ac28cc55a1db92785e95f602d0dd09f4f8eaf78d784f6d04db1357f5",
+   "subject": "12"
   },
   {
    "file": "sub-012/sub-012_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90596086,
+   "sha256": "dc3d8316044b20102d77f765fb5d4586ddefa28d2a01158fade11172a5be59da",
+   "subject": "12"
   },
   {
    "file": "sub-012/sub-012_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91153526,
+   "sha256": "5e908e85aa9ee10866ecf81c735483427a37a62d070f7df7521e94653736e92f",
+   "subject": "12"
   },
   {
    "file": "sub-012/sub-012_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91303606,
+   "sha256": "5a3beea1ce3d75add497a77d49886216e8b3929f88e721ce3c4f968c0220c8f7",
+   "subject": "12"
   },
   {
    "file": "sub-012/sub-012_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90778326,
+   "sha256": "61aca4ec7e399eb3eb58b03a9e3b0b59df44b05ba94247087820ef7e8ac456e4",
+   "subject": "12"
   },
   {
    "file": "sub-013/sub-013_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90113686,
+   "sha256": "67222c4e1de7a8e07ccbf7a1ce18c007f1ee03199537ef81a972a8cb429a7f72",
+   "subject": "13"
   },
   {
    "file": "sub-013/sub-013_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 89599126,
+   "sha256": "cb535a25aa41b03a7edccb4d04df21c62a4e1707740cd356fc8f3ef00a71a36d",
+   "subject": "13"
   },
   {
    "file": "sub-013/sub-013_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 89770646,
+   "sha256": "708366c3341b47e358983a6d883ab379b5371cc91b982e925b8752da966d62cf",
+   "subject": "13"
   },
   {
    "file": "sub-013/sub-013_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90210166,
+   "sha256": "0af591a0152b7c162198885f962f7192512d6c48fd9151cef3db154fa3df7571",
+   "subject": "13"
   },
   {
    "file": "sub-013/sub-013_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 89867126,
+   "sha256": "4e65bc7832724828a03164504f1a9351bb24c4e16da10c97dafb70cf720a9715",
+   "subject": "13"
   },
   {
    "file": "sub-013/sub-013_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90446006,
+   "sha256": "5506e72935a9c328d158a568c9f921d044d618b8abd4b33e23c28cbe65083131",
+   "subject": "13"
   },
   {
    "file": "sub-013/sub-013_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91153526,
+   "sha256": "28d40cbc60bfd73d2ca0fb578add50f63542afaf44458f3b78616cbb4b329b4d",
+   "subject": "13"
   },
   {
    "file": "sub-013/sub-013_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90917686,
+   "sha256": "673e9b335c6d933ef63c78ea98752faa936a1d8be47554a9cd12fced0b3ac209",
+   "subject": "13"
   },
   {
    "file": "sub-013/sub-013_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91196406,
+   "sha256": "62d61e90af72ee374b6e5570105210876a889c3ee5b0683d7005e3de306e8f8f",
+   "subject": "13"
   },
   {
    "file": "sub-013/sub-013_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90821206,
+   "sha256": "0bffc8bb494bc988de886faaf41c01d3f1ea934035c4a0c4ed0ccc61a8eb64d7",
+   "subject": "13"
   },
   {
    "file": "sub-013/sub-013_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90960566,
+   "sha256": "971f7772e947bfbea2b12fbd4f2f65cadff5dcb955e1c62e4e8417b83d05ed75",
+   "subject": "13"
   },
   {
    "file": "sub-013/sub-013_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90628246,
+   "sha256": "cc58c9e9e7980bdf334599abb08f488a01b98dd513f3299fd4ecd2cf92d53da0",
+   "subject": "13"
   },
   {
    "file": "sub-013/sub-013_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90553206,
+   "sha256": "fa5cf845d15479436317b43a7b51a5be5923cbc8213ad22156cb46991b185a84",
+   "subject": "13"
   },
   {
    "file": "sub-013/sub-013_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90563926,
+   "sha256": "052908a85762f76b75f1493d5c898feb45e7fa391233974adce7c69f4429f0c1",
+   "subject": "13"
   },
   {
    "file": "sub-013/sub-013_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91207126,
+   "sha256": "7b3b136104542863c82a81a4cbc5b63a4e3dfc824f886cbc4bda7e65cb09af18",
+   "subject": "13"
   },
   {
    "file": "sub-014/sub-014_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90210166,
+   "sha256": "282f4f889463cec589736b455fdacec527fda162b3781300367a8cc25145e91b",
+   "subject": "14"
   },
   {
    "file": "sub-014/sub-014_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90285206,
+   "sha256": "3b56c3323c1adc0c2695655cc7f69ca74daa968918bd2b5d0cadf6cd99a25818",
+   "subject": "14"
   },
   {
    "file": "sub-014/sub-014_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 89642006,
+   "sha256": "ed9e8f6cbf12def30638217d35c2c81f37413269f2f8daf724d77bef32414d5c",
+   "subject": "14"
   },
   {
    "file": "sub-014/sub-014_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 89374006,
+   "sha256": "9eeee1e3aca7a9f5efbd8d58df7de84831c2300605093445bf08a0d6b8f90b8c",
+   "subject": "14"
   },
   {
    "file": "sub-014/sub-014_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90178006,
+   "sha256": "a3bb5079a8253cc0ebd01cbc60732373d3e7bba7f52f55c402cbc351f3a8b63b",
+   "subject": "14"
   },
   {
    "file": "sub-014/sub-014_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90499606,
+   "sha256": "dce88fd4fc88445fcc588e46ced45231faa218e8348ac6a296d1aa930e7af5f3",
+   "subject": "14"
   },
   {
    "file": "sub-014/sub-014_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 89459766,
+   "sha256": "10b709342e3d94a43898b8a0ccdd9d9bd55fe20ef5e89fdfcca87e98df046e48",
+   "subject": "14"
   },
   {
    "file": "sub-014/sub-014_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90478166,
+   "sha256": "718963582724ccca1b01a8ab742b5db0adeda71058b1c5d8c97a22f0a589579c",
+   "subject": "14"
   },
   {
    "file": "sub-014/sub-014_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 89856406,
+   "sha256": "b4d8ec4a7b7bb6c31540c7b6e0234d56b857f3f81232b5466b1cc874d63df28f",
+   "subject": "14"
   },
   {
    "file": "sub-014/sub-014_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 89845686,
+   "sha256": "bb063eb6dc783f6c26e2935f32074ce0532c077f882971d7cac0ee70561ca668",
+   "subject": "14"
   },
   {
    "file": "sub-014/sub-014_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91153526,
+   "sha256": "486dbfa7aed4187a2beefab39a92b9d9883226994ed72d75ed55c0a008b511ea",
+   "subject": "14"
   },
   {
    "file": "sub-014/sub-014_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90553206,
+   "sha256": "e2e7b3cd55605653ea49d6404c0710be735e1d04c37fefc5d4a0750379cd6088",
+   "subject": "14"
   },
   {
    "file": "sub-014/sub-014_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91271446,
+   "sha256": "46373306a8d7f9d2cc4354e27c5e187e67d15b8d97e39a8af813cbcc87045c20",
+   "subject": "14"
   },
   {
    "file": "sub-014/sub-014_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91410806,
+   "sha256": "dc061d21a8d72b3840b986b75d34ae884ad826a2c9f4b25188365a997b29867a",
+   "subject": "14"
   },
   {
    "file": "sub-014/sub-014_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90424566,
+   "sha256": "581dc785bc6acdfdaaaa06a5f6159787733df6942e4ed43f48533e1fd0750bed",
+   "subject": "14"
   },
   {
    "file": "sub-015/sub-015_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90821206,
+   "sha256": "8a0dd0024372d0ee5369527159c32ba187925f0e8ebcf40ea2fde37697b3ba0d",
+   "subject": "15"
   },
   {
    "file": "sub-015/sub-015_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90885526,
+   "sha256": "0636ab6a0cf5c91704b4fc5ea1223a732ff443d1796232a8d7fc2ad824ed9f7c",
+   "subject": "15"
   },
   {
    "file": "sub-015/sub-015_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90145846,
+   "sha256": "1fbe1a79074075c97b8a34a6f0c185feab51397269a516845ab109723894ed67",
+   "subject": "15"
   },
   {
    "file": "sub-015/sub-015_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90231606,
+   "sha256": "bd8553180dc4aed60bf1c474e176f335dd5ffe5949f4480558b11147f3fff613",
+   "subject": "15"
   },
   {
    "file": "sub-015/sub-015_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91089206,
+   "sha256": "718e0563d011ef1ae329df5894cd37e94f831674e2136f710e277fd6bbe12d9f",
+   "subject": "15"
   },
   {
    "file": "sub-015/sub-015_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90435286,
+   "sha256": "6770c84dfd45d0f79315d38a1477000340ae37e0d91d81dce02f8d53250d91bf",
+   "subject": "15"
   },
   {
    "file": "sub-015/sub-015_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90027926,
+   "sha256": "1ff4dbcd4b2266484fc2b6e5a363869d6e2c8b5ad94eb4bd309a1becf2393e9b",
+   "subject": "15"
   },
   {
    "file": "sub-015/sub-015_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91292886,
+   "sha256": "b81f4828bf4a5f6e3054418fae975503d3e21d8b8d9f13ad48fcd3c5117e42fc",
+   "subject": "15"
   },
   {
    "file": "sub-015/sub-015_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91035606,
+   "sha256": "5b80a8abb71e57ee61b8172c0d5e9afbe03329eda309243c30e93c2809834821",
+   "subject": "15"
   },
   {
    "file": "sub-015/sub-015_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91089206,
+   "sha256": "69bf1c31a26138c68bef0eb41ab647cce58693cd6202c749a63947e0de9b2b2b",
+   "subject": "15"
   },
   {
    "file": "sub-015/sub-015_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91507286,
+   "sha256": "339dc5a8c86aa6743904c8eed4d9b53526a81f8de472cf9d5c631b676f0d8ee1",
+   "subject": "15"
   },
   {
    "file": "sub-015/sub-015_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90842646,
+   "sha256": "d53dd1dfbc207f80437ec1351848aa38a088ede78f9f9edb85030e99cb134b5c",
+   "subject": "15"
   },
   {
    "file": "sub-015/sub-015_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 92343446,
+   "sha256": "0d076eedafd9cd3ac6ddf33aff0de13eb6cf71bdbdef2d8928e670267aee21d3",
+   "subject": "15"
   },
   {
    "file": "sub-015/sub-015_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91035606,
+   "sha256": "37c7f1727d1109e7193384e4a2589a1e16d5591a17c12a44306f6586446d4e90",
+   "subject": "15"
   },
   {
    "file": "sub-015/sub-015_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90906966,
+   "sha256": "86c1c986870e42d8a92c7e152ba28ce127cdf7f95a29a1be4389cf39f56062e1",
+   "subject": "15"
   },
   {
    "file": "sub-016/sub-016_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 89577686,
+   "sha256": "af5b664e97bc4e284bf46f0a1a75d8018178f5750e44c1b16e6ff9395617ea86",
+   "subject": "16"
   },
   {
    "file": "sub-016/sub-016_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 89556246,
+   "sha256": "8d223eae9940c3950d44b04e5a4e1906d21f3185699ca5a42502bb87b935cd66",
+   "subject": "16"
   },
   {
    "file": "sub-016/sub-016_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91078486,
+   "sha256": "be23edbcefa83ef5eeaf4d14fec2eb84b1b6fea8779e84e9744db5ffdf958825",
+   "subject": "16"
   },
   {
    "file": "sub-016/sub-016_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 92161206,
+   "sha256": "263cd84c25058e8c150f6eac3212e01e4eec3a789a54472ec7bdd47540457ccd",
+   "subject": "16"
   },
   {
    "file": "sub-016/sub-016_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90799766,
+   "sha256": "fba1938d96ab267b8cfa30376d1764df6e8aae99547b64dddcc0b81b5f2a5217",
+   "subject": "16"
   },
   {
    "file": "sub-016/sub-016_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90714006,
+   "sha256": "51bbb389075569747741e6b8e79da4a7720e53b73a3e34d7050708e60683c2bc",
+   "subject": "16"
   },
   {
    "file": "sub-016/sub-016_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91507286,
+   "sha256": "ce4616ec4cf1f4dcef4486f7b6593995a3232ed4979d03fcf6beb58c3bc2d0f0",
+   "subject": "16"
   },
   {
    "file": "sub-016/sub-016_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91217846,
+   "sha256": "62b8fc2b863a8c2b5f5aed48c816a0b14e3279016a7f91293a277d25578f33bd",
+   "subject": "16"
   },
   {
    "file": "sub-016/sub-016_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90724726,
+   "sha256": "68fea03d66feff9f5ad414c53d11bd43d937f5f16c433e183651759f9ff4c616",
+   "subject": "16"
   },
   {
    "file": "sub-016/sub-016_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91389366,
+   "sha256": "1fc88a3e6fac984083a9492622c9918fe240691b5fdbc8f9cadb60dc45df965d",
+   "subject": "16"
   },
   {
    "file": "sub-016/sub-016_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91464406,
+   "sha256": "e17362ca820694c680336b8e8d601f177bb679c5f41fdeda596f12251fb0e810",
+   "subject": "16"
   },
   {
    "file": "sub-016/sub-016_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90274486,
+   "sha256": "c7a03f5a2886ba011b22b934810ec92abc7497038c8b7a2c0c05bf3088ee45ac",
+   "subject": "16"
   },
   {
    "file": "sub-016/sub-016_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90939126,
+   "sha256": "6abe09ba327307723ae0dffc489d4075d5af5a1e3f73f5f016c3448863dc79f9",
+   "subject": "16"
   },
   {
    "file": "sub-016/sub-016_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90821206,
+   "sha256": "5252050d764ee333079274d471270f37e23369c7a49a50dc9f2d29594c62b5aa",
+   "subject": "16"
   },
   {
    "file": "sub-016/sub-016_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90338806,
+   "sha256": "8fd8cbf4b41cb6afcdd0177399414b4b231560ad312e66d403e24d53b9cfc492",
+   "subject": "16"
   },
   {
    "file": "sub-017/sub-017_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91078486,
+   "sha256": "4fd3640352874b8b9d2526fd4fa89430bb8c9d08a9e892c58cda64880f6d7d82",
+   "subject": "17"
   },
   {
    "file": "sub-017/sub-017_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90542486,
+   "sha256": "4fdef27859dad77bedb2668f7a7430485b580cb39d59bd93a2cc49d8938f0f11",
+   "subject": "17"
   },
   {
    "file": "sub-017/sub-017_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90692566,
+   "sha256": "ac20fc713619d0e6480c48be21db3d7878c2f2cd048d88f0b4930b8f365a0d6d",
+   "subject": "17"
   },
   {
    "file": "sub-017/sub-017_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90746166,
+   "sha256": "3e3733b1696cbfc8ce8e6982bcc2c15b59b7e47f9ee71903afe593572cf14d1f",
+   "subject": "17"
   },
   {
    "file": "sub-017/sub-017_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90542486,
+   "sha256": "66b9590ed6d4e4b1b6b02d17dc2785d5b5e2c7b24e37d6992360ba6fb8eb0349",
+   "subject": "17"
   },
   {
    "file": "sub-017/sub-017_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91357206,
+   "sha256": "2942c01b5269ecb39a19ef9281607161e70dd5ef6c8e83e6e8540b228944b2a3",
+   "subject": "17"
   },
   {
    "file": "sub-017/sub-017_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90960566,
+   "sha256": "5e265fc8ba8c27ddd084b993416dfa75bc5a8354fd1b47b07c8cc6f571215ab0",
+   "subject": "17"
   },
   {
    "file": "sub-017/sub-017_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90692566,
+   "sha256": "0cd5f465504cb622dd642418d1e9ad151ac4189f613d8b1cf52c27caaea8ed81",
+   "subject": "17"
   },
   {
    "file": "sub-017/sub-017_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90789046,
+   "sha256": "9de21e8ee6129ee2066662d1960b08177d3899d2229f3a02fbdccd308c1f6820",
+   "subject": "17"
   },
   {
    "file": "sub-017/sub-017_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90467446,
+   "sha256": "33b7354d9d7dbfa84996eb1010d4d85e70e0340f973b82cd6be545ca2d09ba61",
+   "subject": "17"
   },
   {
    "file": "sub-017/sub-017_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 107254966,
+   "sha256": "216e1d4d67b114d321c5a85171b52dfaf94732a605f7a94b46445b4ec37af938",
+   "subject": "17"
   },
   {
    "file": "sub-017/sub-017_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90939126,
+   "sha256": "494001fbc2885c931735abda83f86c87449faa44a376889b3e3fca05e1194856",
+   "subject": "17"
   },
   {
    "file": "sub-017/sub-017_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91282166,
+   "sha256": "42a0a15e786d9e88f5436bcf529bf79e189ba6035f1679537128cadd46305f0a",
+   "subject": "17"
   },
   {
    "file": "sub-017/sub-017_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91089206,
+   "sha256": "117c67caa359d7c6169a00dd3f3dd8f15646532f40b207eec94475056ce118a7",
+   "subject": "17"
   },
   {
    "file": "sub-017/sub-017_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91014166,
+   "sha256": "155cde906e74bbbbff9164041a9db5738e57cfe368d9494c24382851b017c2d5",
+   "subject": "17"
   },
   {
    "file": "sub-018/sub-018_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90531766,
+   "sha256": "b7463e5e5cf19e3c2067bce3334edd83ab4fdf6243490e8e3de46b8bc296e83a",
+   "subject": "18"
   },
   {
    "file": "sub-018/sub-018_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90617526,
+   "sha256": "2c097bfb35bbbc541418d75d3c824113d012905a2ecbf904362179b2196a99cd",
+   "subject": "18"
   },
   {
    "file": "sub-018/sub-018_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90714006,
+   "sha256": "7b0fdfdf60915a6d1a857f652f4878891e95c530bc848a542d6694a44d032c00",
+   "subject": "18"
   },
   {
    "file": "sub-018/sub-018_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90435286,
+   "sha256": "416cebaff477a15bdbf9dd470ed9e35e375de0e63d6c3f816c780d91cb7e41a4",
+   "subject": "18"
   },
   {
    "file": "sub-018/sub-018_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90896246,
+   "sha256": "6af2eba8808ec5f3e77ba0c5c8b1fb19c9c52f44e9f7711c2e269c672f5851e8",
+   "subject": "18"
   },
   {
    "file": "sub-018/sub-018_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91282166,
+   "sha256": "0750843ddf1a1666c4c79ac1dfb974a7a4e23f3611f6ed230ef47c50dba2bc09",
+   "subject": "18"
   },
   {
    "file": "sub-018/sub-018_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91110646,
+   "sha256": "2ca51ff3a093e2a9ad7499a44dd5bc0f6d614d503f9cbc1ad76f08afee9a1c46",
+   "subject": "18"
   },
   {
    "file": "sub-018/sub-018_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91228566,
+   "sha256": "fe888daca091b70e2bc4d835d5135283589f842f63a9f9d01e6d4799e647510d",
+   "subject": "18"
   },
   {
    "file": "sub-018/sub-018_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90982006,
+   "sha256": "abff373e5fe0cdcd27de09479d70ec47cee68fc3618c3392da7721ec02c6f828",
+   "subject": "18"
   },
   {
    "file": "sub-018/sub-018_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90896246,
+   "sha256": "8e54c79949e5d6751b9ed7c2582c3a7c31cf3087ce5c79918d008f99adde1142",
+   "subject": "18"
   },
   {
    "file": "sub-018/sub-018_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91014166,
+   "sha256": "5fdfe20b94548d5c4b175560c2ec55418dd0c75f97f8fb0c39fe42da6a7bbfc8",
+   "subject": "18"
   },
   {
    "file": "sub-018/sub-018_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91046326,
+   "sha256": "bc2048dbe25a95447746eae80259f82ec135ce40ebbe2e63732c38a8dfd6e36c",
+   "subject": "18"
   },
   {
    "file": "sub-018/sub-018_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90456726,
+   "sha256": "a603307fd1d554d329a4e3574c8cd291cab4f1d6b48dcf5cdf22e8cd0edd0daf",
+   "subject": "18"
   },
   {
    "file": "sub-018/sub-018_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90102966,
+   "sha256": "71ddf35ff4af45d1d5647d2b83d31e23c807c4d8cbcae73575cf25797b3fdd0d",
+   "subject": "18"
   },
   {
    "file": "sub-018/sub-018_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90681846,
+   "sha256": "32d991f384754b74b20c7a3c9f2e26ddee1120c325f9f21e3c2cfe2d19e53779",
+   "subject": "18"
   },
   {
    "file": "sub-019/sub-019_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91003446,
+   "sha256": "fae74a487fc3e9daa8c2087451057706a55c289354c6350800bea361928321d2",
+   "subject": "19"
   },
   {
    "file": "sub-019/sub-019_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90285206,
+   "sha256": "2124416da5f2a6bf3979d222209ef490a4ab3bd7ec19cee097272b345f06bd5e",
+   "subject": "19"
   },
   {
    "file": "sub-019/sub-019_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90403126,
+   "sha256": "72664f002b61d37f4eabeea788e9106e2f307883c56a9f7a14e1d278100fef55",
+   "subject": "19"
   },
   {
    "file": "sub-019/sub-019_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90703286,
+   "sha256": "235e6609c299669cace507e154c3e9745dd696b3864e0d9142e5c02053297fca",
+   "subject": "19"
   },
   {
    "file": "sub-019/sub-019_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90231606,
+   "sha256": "f723a2037acb1d34dedacf10f16a5b073451aa174102953f1ffd6221ec2783cc",
+   "subject": "19"
   },
   {
    "file": "sub-019/sub-019_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90821206,
+   "sha256": "65fca1b240af261c9af0d22f3641eb89ddab652019d7402911c819e1488d7fae",
+   "subject": "19"
   },
   {
    "file": "sub-019/sub-019_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91389366,
+   "sha256": "8e6f23eb3a4e2402ea8e31a8483693bad2c2dfdce0671f9f357bfa0a61218aa5",
+   "subject": "19"
   },
   {
    "file": "sub-019/sub-019_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90370966,
+   "sha256": "f3a445d933601d18450f1752e3bb1c12b4f6e63e126789cd6ed821abf4050a93",
+   "subject": "19"
   },
   {
    "file": "sub-019/sub-019_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91099926,
+   "sha256": "71b2fd3fc2eee443fe9ffcefee870a1776e075b652405a9af53ae1c1ebdca70d",
+   "subject": "19"
   },
   {
    "file": "sub-019/sub-019_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90703286,
+   "sha256": "b52351a43f3f24545886cc82cb76e6daf2793314c882088d98a511511afd5b69",
+   "subject": "19"
   },
   {
    "file": "sub-019/sub-019_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90896246,
+   "sha256": "5a06f4a6313ffd354b2bae82693f7243022857bb7600ab375b33a658c7e3b93b",
+   "subject": "19"
   },
   {
    "file": "sub-019/sub-019_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90831926,
+   "sha256": "9695aabf672a09eaea85025072b350a695a4df0ff29e58bf71670bfe2002b68f",
+   "subject": "19"
   },
   {
    "file": "sub-019/sub-019_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90982006,
+   "sha256": "8831021b390ca9468ecd74a63480fe32b036e3271cb3fd9fbbe569efc62305ba",
+   "subject": "19"
   },
   {
    "file": "sub-019/sub-019_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90928406,
+   "sha256": "da5bbc3f95313205b022ee3f5dabd058b4f7d27ac076a3d6a41eb2a8c24b4817",
+   "subject": "19"
   },
   {
    "file": "sub-019/sub-019_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91142806,
+   "sha256": "00332a650dd45729153eff112a6ab4b16623616e6a058ee1e392ae5d0ffd0efe",
+   "subject": "19"
   },
   {
    "file": "sub-020/sub-020_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91142806,
+   "sha256": "e666c6f96db058e13ff1c3d74484db3e377417e2cb8b56db5a17e8c9b429faad",
+   "subject": "20"
   },
   {
    "file": "sub-020/sub-020_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91014166,
+   "sha256": "ee716341ff8f8106710c1dc7bd8949511438d0d37366192e8afc107b5d82000c",
+   "subject": "20"
   },
   {
    "file": "sub-020/sub-020_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91132086,
+   "sha256": "46c6920eabd7f39790195ea395ef9d4fcb41732ceba543770346a137ff4116de",
+   "subject": "20"
   },
   {
    "file": "sub-020/sub-020_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91046326,
+   "sha256": "1ffcc7e90045fedabee00449685020e117ad64eae194069c1f9723575b4ace60",
+   "subject": "20"
   },
   {
    "file": "sub-020/sub-020_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90746166,
+   "sha256": "e1d86e0d42ac8dec74237671ffd4c158e15acdc5707bebc9f13898afdaf27f08",
+   "subject": "20"
   },
   {
    "file": "sub-020/sub-020_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91164246,
+   "sha256": "fab2f03994d79425ffa68bcc90998fa8d76366c37ebbb48f1bfcaf0fc1e45f9b",
+   "subject": "20"
   },
   {
    "file": "sub-020/sub-020_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90746166,
+   "sha256": "35e5446efa193cabade0436feff05c722317795e8add2741690534560326d547",
+   "subject": "20"
   },
   {
    "file": "sub-020/sub-020_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90874806,
+   "sha256": "de2f47049195edb4b21ce6859ad7ee6fe6576020e88d0830fcf9d7248692bd40",
+   "subject": "20"
   },
   {
    "file": "sub-020/sub-020_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91700246,
+   "sha256": "f9ef65d5d3ec10ac8e59b82690b4b8a681554b64553b7f0581bdc567fdb3ae19",
+   "subject": "20"
   },
   {
    "file": "sub-020/sub-020_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90960566,
+   "sha256": "8d156c4ae1867ebcf25b1ba2b2488a5343ff8d717da089aa1571bfd165d8e062",
+   "subject": "20"
   },
   {
    "file": "sub-020/sub-020_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91518006,
+   "sha256": "a90ee2a989c8995239c6aabdd83649f721bfe11a53c33c6c6a4ca322e314afb7",
+   "subject": "20"
   },
   {
    "file": "sub-020/sub-020_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90553206,
+   "sha256": "ec36cad3f0f43fc9c72d4fcb616ad6cd4ad61163cc1137c45b6bf245207f71eb",
+   "subject": "20"
   },
   {
    "file": "sub-020/sub-020_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 92021846,
+   "sha256": "6ac18bf71fc19c8463fe0babe6a6ab223b5a0305b1275459ab2adbd38c3ef628",
+   "subject": "20"
   },
   {
    "file": "sub-020/sub-020_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91057046,
+   "sha256": "85e402d53ef4f5895521334fbefa5902ed79d87568714935a9dac032725c4f93",
+   "subject": "20"
   },
   {
    "file": "sub-020/sub-020_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91046326,
+   "sha256": "1c2f0156e26726524e296db1cc9ec036682c9fa85a949cd511d67d18f1fa2894",
+   "subject": "20"
   },
   {
    "file": "sub-021/sub-021_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90906966,
+   "sha256": "708d3ca7c7ed10852d6f4b7ef17557f934cd5a6fa84c66e3026579d754b4f7b8",
+   "subject": "21"
   },
   {
    "file": "sub-021/sub-021_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90467446,
+   "sha256": "403c4479e68f9dab9a576c631b8eafc2145fc165126e38a0f1cbc038e27fe7bf",
+   "subject": "21"
   },
   {
    "file": "sub-021/sub-021_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91421526,
+   "sha256": "e6675ec431347965ef6b8d624764c801121d5861233b679dece4b7a2e0fb95bc",
+   "subject": "21"
   },
   {
    "file": "sub-021/sub-021_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 89427606,
+   "sha256": "5f5c72b70088b80acdf01a4e3755a99b589724d01f73b15ff2e19b75b0a04675",
+   "subject": "21"
   },
   {
    "file": "sub-021/sub-021_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 89245366,
+   "sha256": "266d0f333e8130b293066c2839c40a8b818779a13dd72fa70668e02e64029ff4",
+   "subject": "21"
   },
   {
    "file": "sub-021/sub-021_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90874806,
+   "sha256": "2f49f7c72da6f57410baf2b13c61f3a17109a1331fe9c4838e336d642e79fdeb",
+   "subject": "21"
   },
   {
    "file": "sub-021/sub-021_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90671126,
+   "sha256": "5975e6eb6417e54d1956c3ada14f0df83556b33c19004d47cdebca9acac271e4",
+   "subject": "21"
   },
   {
    "file": "sub-021/sub-021_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90982006,
+   "sha256": "73d4966e5400026d2c9c8e6da25a2ddedf09604e2644bbdc81c01e0b73cec6a7",
+   "subject": "21"
   },
   {
    "file": "sub-021/sub-021_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91142806,
+   "sha256": "c2f97715123e68b48100864420f4e37c5cf710f9f1ae6c4deb2a4f7602445b95",
+   "subject": "21"
   },
   {
    "file": "sub-021/sub-021_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90531766,
+   "sha256": "16e75e59ac92e7adfd323000326c1c77dbdc1c3568f53079a417038831feee87",
+   "subject": "21"
   },
   {
    "file": "sub-021/sub-021_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91539446,
+   "sha256": "e1eea994934049c35779c7c785fddddb01f4de8cebf6568ffd86c42a7b824350",
+   "subject": "21"
   },
   {
    "file": "sub-021/sub-021_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91507286,
+   "sha256": "17e5318fcd96652fa711b7d6aece4084e688c7a2dd4e9091796fcb1fa3367ca3",
+   "subject": "21"
   },
   {
    "file": "sub-021/sub-021_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90960566,
+   "sha256": "95ff3440ca61b97788ac86b9a139ba326e1f5ed72a9c1c81d8bd60f4ca464241",
+   "subject": "21"
   },
   {
    "file": "sub-021/sub-021_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91046326,
+   "sha256": "7f54139a86fe18ffe2c2a817cb964f019acf6e854a80d58c0b84c062f4d0dfff",
+   "subject": "21"
   },
   {
    "file": "sub-021/sub-021_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90939126,
+   "sha256": "bb0e810e9c5468aef90290ff66b79ccd165b6f5b4e6b129caa02f49c0f393db0",
+   "subject": "21"
   },
   {
    "file": "sub-022/sub-022_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91089206,
+   "sha256": "01cdee09d9d25d725ea55e68cc10778601fe346f5f096c28abb3dddeb3b09c4c",
+   "subject": "22"
   },
   {
    "file": "sub-022/sub-022_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90756886,
+   "sha256": "2459bfa9c57f7b6d7ca20d7bb015a10a5229618b300ca73dd33fdb75b8b1e2bf",
+   "subject": "22"
   },
   {
    "file": "sub-022/sub-022_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90982006,
+   "sha256": "5e13e474f9fefdb29655e0b281fa5938cd9bddd038edb5ac398475ce0e7c74d8",
+   "subject": "22"
   },
   {
    "file": "sub-022/sub-022_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91250006,
+   "sha256": "53ccacca816035d53225ac534bef0422ab11c8a18bc15d75c19e955ddbc35ad5",
+   "subject": "22"
   },
   {
    "file": "sub-022/sub-022_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90596086,
+   "sha256": "33eb516e9341043b4c8c631b0ad8b6fe148f5bfe1501c227151256d45290007b",
+   "subject": "22"
   },
   {
    "file": "sub-022/sub-022_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90638966,
+   "sha256": "2a2f9ab58df41f35f526d68ca84ed6ce05d46ace979eb3a6fb85a467c545222e",
+   "subject": "22"
   },
   {
    "file": "sub-022/sub-022_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90971286,
+   "sha256": "89139fe368c12e4dbc50afded7d64741ed11165c7c075f20da5e9140bc333aa0",
+   "subject": "22"
   },
   {
    "file": "sub-022/sub-022_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90531766,
+   "sha256": "78c1b4cdd42caf2daf571a9f62736bf8194e50f7b739bc187440394ba846de24",
+   "subject": "22"
   },
   {
    "file": "sub-022/sub-022_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90660406,
+   "sha256": "4711f016bb7a9978a0618a2fef8798d8c457786323b1dacd4f2888df1f323bc5",
+   "subject": "22"
   },
   {
    "file": "sub-022/sub-022_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90349526,
+   "sha256": "0968c8c482e43e7348cdbdb5096afb4ac538715a713ae3c6132cd30b084982f2",
+   "subject": "22"
   },
   {
    "file": "sub-022/sub-022_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91250006,
+   "sha256": "53cba6cc92be9cae9a81366e7d4746026363c1f20d722df3aba5a5ece07eb3d5",
+   "subject": "22"
   },
   {
    "file": "sub-022/sub-022_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90628246,
+   "sha256": "03a507b598c4b324ab4fb1cce47dc36b8d96a2e7d36725758c033bc1eaa1937e",
+   "subject": "22"
   },
   {
    "file": "sub-022/sub-022_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90199446,
+   "sha256": "7ed4ead08bcd981ea8117111b2fd88a71bdc5bb3f3c97e44061192d317d34a3c",
+   "subject": "22"
   },
   {
    "file": "sub-022/sub-022_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90939126,
+   "sha256": "8d8e5b84e8499cb72792a78b1348c7f940bb41784772946b0f4f6f0a14a835d5",
+   "subject": "22"
   },
   {
    "file": "sub-022/sub-022_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90960566,
+   "sha256": "68b323c007cc086afd728fc6a0de990f62916ed34898029b38af24cc0aa4827d",
+   "subject": "22"
   },
   {
    "file": "sub-023/sub-023_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90853366,
+   "sha256": "3e940225955a4c1abfeacb85b0bf5757365d5e82216349ec216b6f996f642b5c",
+   "subject": "23"
   },
   {
    "file": "sub-023/sub-023_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91024886,
+   "sha256": "52fdea8e40903ee70025f0feea2138208a5d6a423ae0c7e7661455c586f96566",
+   "subject": "23"
   },
   {
    "file": "sub-023/sub-023_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90649686,
+   "sha256": "4b41b9bbe43bed92e081147f9f81ac55c5e0a967b4217fa8f1e6c374ebb71c02",
+   "subject": "23"
   },
   {
    "file": "sub-023/sub-023_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90928406,
+   "sha256": "6745659e0e6e6d672c3d897d840c62353cd564664180f57b9da265dd7d0adb75",
+   "subject": "23"
   },
   {
    "file": "sub-023/sub-023_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90885526,
+   "sha256": "5f0888eff3dd0583dce805449736c039779e6cea50d41e148c9162bb3f1fb3aa",
+   "subject": "23"
   },
   {
    "file": "sub-023/sub-023_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91153526,
+   "sha256": "2e63db4947dcef3bb858708da1ae19eed5298fae0ce234601462b1ca6d9bf715",
+   "subject": "23"
   },
   {
    "file": "sub-023/sub-023_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90714006,
+   "sha256": "e42ad1ef3002fe4433f840029f1de534c57498d32f303bcf99242de0cf62edb5",
+   "subject": "23"
   },
   {
    "file": "sub-023/sub-023_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91496566,
+   "sha256": "25081ffad719f313eed5070468e671e54ac0bac25a250b082fda69c575a0df9c",
+   "subject": "23"
   },
   {
    "file": "sub-023/sub-023_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90692566,
+   "sha256": "db9e631493f0b427f456c549b6c0896432a2635f7ec44c704f589642b01d566a",
+   "subject": "23"
   },
   {
    "file": "sub-023/sub-023_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91121366,
+   "sha256": "b4ba12b32eef10f431f2d0e4dc525c97d56a2875553a41357c7ab74094a51615",
+   "subject": "23"
   },
   {
    "file": "sub-023/sub-023_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91132086,
+   "sha256": "d53c9bc8388dd53b1200bd913c65b3258896ecc9cc49e7524f2703d7659f8122",
+   "subject": "23"
   },
   {
    "file": "sub-023/sub-023_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90735446,
+   "sha256": "c4881bd543736c6204e69a2d47fa981ef193d20e50a92be993c48a035e9c1dc0",
+   "subject": "23"
   },
   {
    "file": "sub-023/sub-023_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90917686,
+   "sha256": "5cef05ecc0fd9ff82143ec21a97460764c5197a66dbdf4c6186f0dcabfce2d1c",
+   "subject": "23"
   },
   {
    "file": "sub-023/sub-023_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90756886,
+   "sha256": "436fecf29e8c750482d07c1667eebf13c70fecf6a1eba4a0c12ca4409ccedfbd",
+   "subject": "23"
   },
   {
    "file": "sub-023/sub-023_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91046326,
+   "sha256": "1aaf1f3b6ceca00976ac4b9ec2e8f768ed26387e1e3f6447dbcf6e4e65c04ea0",
+   "subject": "23"
   },
   {
    "file": "sub-024/sub-024_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91389366,
+   "sha256": "434afb76e35ac4458d9322dd236c815d4a237cf4756f305a1564207409358994",
+   "subject": "24"
   },
   {
    "file": "sub-024/sub-024_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91185686,
+   "sha256": "689a3c28e1e9077da08422bf439b387c49569b59b99111b826237d48498339e3",
+   "subject": "24"
   },
   {
    "file": "sub-024/sub-024_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91228566,
+   "sha256": "8bdbf9abc4764da6757474954cdc7e26abe98aa8dad48856b13a0279f5aa83cb",
+   "subject": "24"
   },
   {
    "file": "sub-024/sub-024_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91250006,
+   "sha256": "35a31b270fb9b0e4ba934b34d6ac5e9356df8c016ca0700c6c81b57abfbf2b35",
+   "subject": "24"
   },
   {
    "file": "sub-024/sub-024_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90488886,
+   "sha256": "ed5cc4e498cdbacde1ea13ed910d67a8b7ffff4e3538ef7fb349b4bfa618fe6a",
+   "subject": "24"
   },
   {
    "file": "sub-024/sub-024_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91057046,
+   "sha256": "d8351648bf520a9d60639e028bbda6f5f525e5bd0739fec8d1f12229e6a943c6",
+   "subject": "24"
   },
   {
    "file": "sub-024/sub-024_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90789046,
+   "sha256": "3a9d7a7bb0b5760d26bd28f228234c765bdac7f1679888029d9658db3cbe87d0",
+   "subject": "24"
   },
   {
    "file": "sub-024/sub-024_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91035606,
+   "sha256": "be151bd5ead69202e8f0f026ddab836b86913df8da5b014493835b2d925f64ba",
+   "subject": "24"
   },
   {
    "file": "sub-024/sub-024_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90949846,
+   "sha256": "f283d7105254e2b7e4cb43802bd7ae95852e6d6cd736678ac79d7a76165d9850",
+   "subject": "24"
   },
   {
    "file": "sub-024/sub-024_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90660406,
+   "sha256": "aba619372b543c18f2087c51b50d6aa9ce6a80694721e9fd93d8a6c1ff0c28c7",
+   "subject": "24"
   },
   {
    "file": "sub-024/sub-024_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91121366,
+   "sha256": "a3b163328c7d719c8f4e82d8e5ed8216f7dcefea8dec662623bae6792a7273d4",
+   "subject": "24"
   },
   {
    "file": "sub-024/sub-024_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90585366,
+   "sha256": "a9d6839341c1b5c5fde29d4d07f404913ad7766aee51d8c0acb948154c031f5f",
+   "subject": "24"
   },
   {
    "file": "sub-024/sub-024_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90531766,
+   "sha256": "cc05ed79a48cc04080d6a479445a4abc6a7a92d0e6458eba4e558ae2c45cdc6a",
+   "subject": "24"
   },
   {
    "file": "sub-024/sub-024_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91657366,
+   "sha256": "41b246114703dd3d3814615dbbd853df90cf7e99f63391a5a3faf9c7f21dc320",
+   "subject": "24"
   },
   {
    "file": "sub-024/sub-024_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90735446,
+   "sha256": "7c190aa5260fe729d4d091421046c899c8a29838b726d5b509caa69abdf36b78",
+   "subject": "24"
   },
   {
    "file": "sub-025/sub-025_ses-01_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91132086,
+   "sha256": "25967c2bea1f559c594e1f708904155c22bb2cf1c4821820b6e071d38d81b604",
+   "subject": "25"
   },
   {
    "file": "sub-025/sub-025_ses-02_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90735446,
+   "sha256": "f52791eb138b1fffb9156b4ff40a7ab3f510dfec9448d03e63ad7c00647850ec",
+   "subject": "25"
   },
   {
    "file": "sub-025/sub-025_ses-03_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91164246,
+   "sha256": "5477783fa5ec01cef736860ba6389141e7c06cc27f9e53d76da0e3c0197476c9",
+   "subject": "25"
   },
   {
    "file": "sub-025/sub-025_ses-04_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91057046,
+   "sha256": "16eb0bf51ec69a67da1b0e043fff7ec9a990eca20cd810e1506b778ed91338ba",
+   "subject": "25"
   },
   {
    "file": "sub-025/sub-025_ses-05_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91239286,
+   "sha256": "79fb5472174b532d8b7819718f7c39a19cf6fa60ac2ccfcd8138b116dbae59f9",
+   "subject": "25"
   },
   {
    "file": "sub-025/sub-025_ses-06_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91378646,
+   "sha256": "e55b23a084dc59930d69fcab975eba7b99d67e9888a2e16c71b05a530b9a696a",
+   "subject": "25"
   },
   {
    "file": "sub-025/sub-025_ses-07_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90521046,
+   "sha256": "72edeb5d7d76600c7ae5ffcf5d9ebb42f37fdb4d6980fb1c3ab389753dcb632f",
+   "subject": "25"
   },
   {
    "file": "sub-025/sub-025_ses-08_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 92096886,
+   "sha256": "e30a90c4b6dba416e486d7eef0b80e51691e1a2198ce872c9c8d2ce58dfddc0a",
+   "subject": "25"
   },
   {
    "file": "sub-025/sub-025_ses-09_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91464406,
+   "sha256": "8a680d6a0871f0a1eb85203a6fdd340a70ce2d2e12c15acb662ec0031bef1c78",
+   "subject": "25"
   },
   {
    "file": "sub-025/sub-025_ses-10_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 90906966,
+   "sha256": "521cc38d69815557dbc53e3bf3833c4734a63b4590215c306e9f93586cd62786",
+   "subject": "25"
   },
   {
    "file": "sub-025/sub-025_ses-11_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91228566,
+   "sha256": "dbc6597d76e036c14c4f8d3930acf6dbeac94583503f9a1d0e3c28e45c079492",
+   "subject": "25"
   },
   {
    "file": "sub-025/sub-025_ses-12_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 92182646,
+   "sha256": "e90779dc175e1d9f38b11acc2b315bbe3e5354221c411177ebd30e75dec80e16",
+   "subject": "25"
   },
   {
    "file": "sub-025/sub-025_ses-13_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 92011126,
+   "sha256": "b6ca2644b9452320b0b9e9332f14f44014de30b72f4350ed4789054c337e6e00",
+   "subject": "25"
   },
   {
    "file": "sub-025/sub-025_ses-14_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 91153526,
+   "sha256": "8dc8b607f3d710fc2f2829211bca8e6e69ff666e23e7a0e4426e34796d34b2b7",
+   "subject": "25"
   },
   {
    "file": "sub-025/sub-025_ses-15_task-motorimagery_eeg.cnt",
-   "bytes": 0,
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   "bytes": 92096886,
+   "sha256": "895e2bbc2bc0419e78e8038c49125da5e0a9905327726b7b72139b8041e39d77",
+   "subject": "25"
   }
  ]
 }
