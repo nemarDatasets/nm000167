@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Motor imagery dataset from Ma et al. 2020",
-  "description": "This dataset contains 62-channel EEG recordings from 25 healthy right-handed subjects performing kinesthetic motor imagery of the right hand or right elbow (same limb, different joints). Each subject completed 15 sessions across 3 days, yielding 600 trials total, designed to study joint-specific motor imagery for brain-computer interface (BCI) applications such as motor rehabilitation and prosthetic control. The data were converted to BIDS format using MOABB from the original dataset published by Ma et al. (2020) in Scientific Data.",
-  "methods_description": "EEG was recorded using a Neuroscan SynAmps2 system with 62 channels (standard_1005 montage) plus auxiliary EOG and mastoid channels, sampled at 1000 Hz with 50 Hz line noise. Subjects performed kinesthetic motor imagery of the right hand or right elbow following a visual cue, with 4-second imagery trials, in an offline synchronous paradigm across 15 sessions per subject (3 days x 5 sessions/day, 40 trials/session).",
+  "description": "EEG recordings from 25 healthy, BCI-naive right-handed participants performing motor imagery of two joints of the same limb (right hand and right elbow). Each participant completed 15 sessions over 3 days, giving 600 trials with 62-channel EEG sampled at 1000 Hz plus EOG. The dataset supports research on decoding fine-grained motor imagery within the same limb for motor rehabilitation and prosthetic control BCIs.",
+  "methods_description": "EEG was recorded with a Neuroscan SynAmps2 amplifier using 62 scalp channels (standard 10-05 montage), a 1000 Hz sampling rate, AFz ground, and impedances below 5 kOhm. Each session contained 40 trials (20 hand, 20 elbow) with a 1 s visual cue followed by 4 s of kinesthetic motor imagery, without feedback. Participants completed 5 sessions per day over 3 days.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -25,10 +25,17 @@
       "term": "motor imagery"
     },
     {
-      "term": "Brain-Computer Interfaces",
+      "term": "brain-computer interface"
+    },
+    {
+      "term": "Electroencephalography",
       "subject_scheme": "MeSH",
-      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
+    },
+    {
+      "term": "Imagination",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D007092"
     },
     {
       "term": "same limb"
@@ -49,7 +56,7 @@
     {
       "identifier": "10.7910/DVN/RBN3XG",
       "identifier_type": "DOI",
-      "relation_type": "References"
+      "relation_type": "IsDerivedFrom"
     },
     {
       "identifier": "https://github.com/nemarDatasets/nm000167",
@@ -92,7 +99,7 @@
     "eeg"
   ],
   "sizes": [
-    "57.8 GB (754 files)"
+    "53.80 GB (754 files)"
   ],
   "formats": [
     ".bdf",
